@@ -375,4 +375,109 @@ Start small:
 
 👉 Focus: **data quality + pipeline clarity**, not complexity
 
+
+## 🧾 EXECUTION REPORT (MANDATORY)
+
+You MUST generate a detailed report before and after execution.
+
+Create file:
+
+```bash
+D1_EXECUTION_REPORT.md
+```
+
+---
+
+## 🔹 PART 1 — PLAN BEFORE EXECUTION
+
+Describe clearly:
+
+* What you understood from the correction plan
+* What changes you will apply
+* What parts of the existing pipeline will remain unchanged
+* What new components you will add (analysis)
+
+---
+
+## 🔹 PART 2 — MODIFICATIONS APPLIED
+
+List all changes:
+
+* Files modified
+* Files created
+* Code sections updated
+* Logic changes (if any)
+
+---
+
+## 🔹 PART 3 — DATA ANALYSIS DETAILS
+
+Explain:
+
+* How you computed each metric
+* Rules used for classification (question types, answer length, etc.)
+* Any assumptions made
+
+---
+
+## 🔹 PART 4 — ISSUES ENCOUNTERED
+
+Report:
+
+* Data inconsistencies
+* Missing fields
+* Problems with extraction
+* Any unexpected behavior
+
+---
+
+## 🔹 PART 5 — FIXES APPLIED
+
+Explain:
+
+* How each issue was resolved
+* What rules or logic were introduced
+
+---
+
+## 🔹 PART 6 — FINAL OUTPUT SUMMARY
+
+Summarize:
+
+* Final dataset size
+* Analysis results
+* Files generated
+* Validation status
+
+---
+
+## 🔹 PART 7 — VALIDATION CHECK
+
+Confirm:
+
+* Dataset unchanged (no rebuild)
+* Analysis correctly added
+* REPORT.md updated
+* All constraints respected
+
+---
+
+## ⚠️ RULES
+
+* Be precise
+* No generic explanations
+* No theoretical text
+* Only practical execution details
+
+---
+
+## 🎯 GOAL
+
+The report must allow a human reviewer to:
+
+* Understand exactly what was done
+* Verify correctness
+* Trust the pipeline
+
+
 ---
