@@ -1,0 +1,137 @@
+[
+  {
+    "id": "legal_qa_000071",
+    "context": "*Article premier :** On entend par fraude au sens de la présente loi, le fait de commettre par une candidate ou un candidat ou toute autre personne toute forme de tricherie et de tromperie dans les examens scolaires sanctionnés par l'obtention d'un certificat ou d'un diplôme national. Sont considérés, parmi les cas de fraude au sens de la présente loi, les actes suivants : 1 - l'échange d'informations par écrit ou oralement entre les candidates et les candidats à l'intérieur de l'espace où se déroule l'examen ; 2 - la possession ou l'utilisation par la candidate ou le candidat de machines, de moyens électroniques, quels que soient leur forme ou leur type, de documents ou de manuscrits non autorisés à l'intérieur de l'espace où se déroule l'examen ; 3 - les cas de fraude basés sur des indices détectés par les correcteurs au cours de l'opération d'évaluation des prestations des candidates et des candidats ; 4 - la production ou l'utilisation de faux documents aux fins de participer à l'examen ; 5 - l'usurpation de l'identité d'une candidate ou d'un candidat pour passer l'examen ; 6 - la fuite des sujets de l'examen provoquée par tout responsable, intervenant ou participant à la rédaction, au transport o",
+    "question": "Quelles sont les différentes formes de fraude aux examens scolaires définies par l'article premier de la loi n° 02-13 ?",
+    "answer": "moyens électroniques",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "val"
+  },
+  {
+    "id": "legal_qa_000072",
+    "context": "O/IEC 19752 | : | 2021 | Technologies de l'information - Méthode pour la détermination du rendement des cartouches de toner pour les imprimantes électrophotographiques monochromatiques et pour les dispositifs multifonctionnels qui contiennent des composants d'imprimantes ; (IC 17.3.050) NM ISO/IEC 19758 | : | 2021 | Technologies de l'information - Equipements de bureau - Méthode pour la détermination du rendement de cartouche de toner pour les imprimantes couleur et pour les dispositifs multifonctionnels qui contiennent des composants d'imprimantes ; (IC 17.3.051) NM IEC 62052-11 | : | 2021 | Equipement de comptage de l'électricité (CA) - Prescriptions générales, essais et conditions d'essai - Partie 11 : Equipement de comptage ; (IC 06.4.002) (R) NM IEC 62053-21 | : | 2021 | Equipement de comptage de l'électricité (c.a.) - Prescriptions particulières - Partie 21 compteurs statiques d'énergie active ; (IC 06.4.020) (R) NM IEC 62054.21 | : | 2021 | Equipement de comptage de 'électricité (c.a.) - Tarification et contrôle de charge - Partie 21 Prescriptions particulières pour horloges de tarification ; (IC 06.4.202) NM IEC 62055-31 | : | 2021 | Equipements de comptage de l'électricité - Systèmes à paiement - Partie 31 : Prescriptions particulières - Compteurs statiques à paiement d'énergie acti",
+    "question": "Quel est l'impact de l'homologation des normes NM IEC 62052-11, NM IEC 62053-21, NM IEC 62054.21, NM IEC 62055-31 et NM IEC 62056 (parties 42, 46, 4-7, 5-3, 7-6, 9-7, 6-1, 6-2) sur le comptage de l'électricité au Maroc ?",
+    "answer": "Equipement de comptage de l'électricité (CA) - Prescriptions générales, essais et conditions d'essai - Partie 11",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "val"
+  },
+  {
+    "id": "legal_qa_000073",
+    "context": "les détenus font l'objet d'une mise à l'isolement ordonnée par le magistrat chargé de l'instruction. Toute autre personne peut être autorisée à rendre visite à un détenu, dans la mesure où cela ne nuit pas à la sécurité et au bon ordre de l'établissement, et apparaît favorable au traitement du détenu. Le directeur de l'établissement peut déterminer, pour un détenu, la fréquence des visites ainsi que le nombre des visiteurs. Sous réserve de garantie suffisante de sécurité, les directeurs des établissements pénitentiaires peuvent autoriser les visites dans un local spécial, en leur présence ou en présence d'un agent désigné par eux. ** Article 76 :** Les visites se déroulent dans un parloir sans dispositif de séparation ou, en cas d'impossibilité, dans un local comportant un dispositif permettant la séparation des détenus de leurs interlocuteurs, sans pour autant les empêcher de se voir. Le directeur de l'établissement peut toujours décider que les visites auront lieu dans un parloir avec dispositif de séparation dans les cas suivants : \\- s'il existe des raisons graves de redouter un incident ; \\- en cas d'incident au cours de la visite ; \\- à la demande du visiteur ou du détenu. Pour les détenus malades qui ne",
+    "question": "Comment les visites aux détenus sont-elles organisées, et quelles sont les conditions pour autoriser des visites dans un local spécial ?",
+    "answer": "en présence d'un agent désigné",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "val"
+  },
+  {
+    "id": "legal_qa_000074",
+    "context": "et de correspondre avec lui. Les droits de se rendre auprès de ce ressortissant et de communiquer avec lui sont accordés aux fonctionnaires consulaires dans un délai maximum de douze jours à partir du jour où le ressortissant a été arrêté, détenu ou privé de sa liberté sous quelque forme que ce soit. Les droits visés au deuxième alinéa du présent article s'exercent conformément aux lois et règlements de l'Etat de résidence, étant entendu, toutefois, que ces lois et règlements doivent permettre la pleine réalisation des fins pour lesquelles les droits sont accordés en vertu du présent article et à moins que la personne intéressée ne s'y oppose expressément. **Article 4 :** 1°) Au cas où un ressortissant de l'Etat d'envoi vient à décéder sur le territoire de l'Etat de résidence, l'autorité compétente de cet Etat en avise sans retard le poste consulaire. 2°) a) Lorsque le poste consulaire informé du décès d'un de ses ressortissants en fait la demande, les autorités compétentes de l'Etat de résidence lui fournissent les renseignements qu'elles peuvent recueillir en vue de dresser l'inventaire des biens successoraux laissés par le défunt dans l'Etat de résidence ; b) le poste consulaire de l'Etat d'envoi peut demander à l'autorité compétente de l'E",
+    "question": "Selon l'article 3, quel est le délai maximal accordé aux fonctionnaires consulaires pour rendre visite à un ressortissant incarcéré et quels sont les droits qui leur sont conférés durant cette visite ?",
+    "answer": "et à moins que la personne intéressée ne s'y oppose expressément",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "val"
+  },
+  {
+    "id": "legal_qa_000075",
+    "context": "tant la ou les génisses concernées. La demande est accompagnée d'un dossier constitué des documents suivants : **1) Documents permettant d'identifier le postulant :** a. Pour les personnes physiques : copie de la Carte Nationale d'Identité Électronique (CNIE) ou tout autre document justifiant l'identité du postulant et, le cas échéant, copie du mandat et copie du document justifiant l'identité du mandataire ; b. Pour les personnes morales : \\- copie des statuts ou certificat d'immatriculation au registre de commerce ou certificat d'inscription au registre des coopératives, le cas échéant ; \\- copie du procès-verbal de la dernière assemblée générale ; \\- copie du document désignant le représentant légal ainsi qu'une copie du document justifiant son identité. **2) Documents permettant l'identification de chaque génisse importée :** a. Copie du pedigree de la génisse importée, précisant la date d'importation et portant la mention « Certifié conforme à l'original » apposée par le service compétent du département de l'agriculture ou de l'ORMVA dans le ressort duquel s'est déroulé la quarantaine ; b. Copie de la carte d'identification et d'accompagnement des bovins (CIAB), délivré conformément aux dispositions de l'arrêté susvisé n° 2021-15.",
+    "question": "Quels documents sont requis pour accompagner une demande de subvention pour l'acquisition de génisses importées ?",
+    "answer": "copie du procès-verbal de la dernière assemblée générale",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "val"
+  },
+  {
+    "id": "legal_qa_000076",
+    "context": "### Context: --- **Bulletin officiel n° 895 du 20 décembre 1929** **EDITION DE TRADUCTION OFFICIELLE** **** **Dahir du 29 joumada II 1348 (2 décembre 1929) relatif au recensement, au classement et à la réquisition des véhicules automobiles au Maroc.** **LOUANGE A DIEU SEUL !** **** _(Grand sceau de Sidi Mohammed)_ Que l'on sache par les présentes - puisse Dieu en élever et en fortifier la teneur ! Que Notre Majesté .Chérifienne, **A Décidé ce qui suit :** **Titre Premier : Dispositions générales** **Article Premier :**(modifié par l'article 1er du dahir du 8 chaabane 1353 (16 novembre 1934))**** Le commandant des forces militaires du Protectorat a le droit de réquisitionner, soit à titre temporaire, soit à titre définitif, dans les conditions générales prévues par le dahir du 10 août 1915 (28 ramadan 1333) sur les réquisitions",
+    "question": "Comment le dahir de 1929, tel que modifié, traite-t-il les motocyclettes avec ou sans side-car en termes de recensement, de classement et de réquisition, selon l'article 17 ?",
+    "answer": "au classement et à la réquisition des véhicules automobiles",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "val"
+  },
+  {
+    "id": "legal_qa_000077",
+    "context": "être interprétée comme portant atteinte au droit des Etats parties de demander et de fournir une assistance à titre bilatéral et de conclure des accords individuels avec d'autres Etats parties en ce qui concerne la fourniture d'urgence d'une assistance. 7\\. Chaque Etat partie s'engage à fournir une assistance par l'intermédiaire de l'Organisation et à prendre à cette fin une ou plusieurs des mesures suivantes, à son gré : a) Il contribue au fonds de contributions volontaires pour l'assistance que la Conférence créera lors de sa première session ; b) Il conclut avec l'Organisation, si possible dans les 180 jours suivant l'entrée en vigueur de la Convention à son égard, des accords concernant la fourniture d'une assistance sur demande ; c) Il déclare, au plus tard 180 jours après l'entrée en vigueur de la Convention à son égard, le type d'assistance qu'il pourrait fournir si l'Organisation lui en faisait la demande. Cependant, si l'Etat partie n'est pas à même par la suite de fournir l'assistance indiquée dans sa déclaration, il reste soumis à l'obligation de prêter son concours ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/5656.html type: Dahir date_publication: 2002-04-03 title: Dahir n° 1-96-94 du 19 mo",
+    "question": "Quelles sont les obligations des États parties en matière d'assistance et de protection contre les armes chimiques, et comment le Secrétariat technique facilite-t-il l'échange d'informations et de matériel dans ce domaine ?",
+    "answer": "dans les 180 jours suivant l'entrée en vigueur de la Convention",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "val"
+  },
+  {
+    "id": "legal_qa_000078",
+    "context": "**Article 7 :** Les candidats admis dans une école régionale d'instituteurs perçoivent au cours de leurs études l'allocation forfaitaire mensuelle, telle qu'elle est fixée par l'arrêté du ministre de l'éducation nationale du 20 août 1958 susvisé. Les candidats ayant déjà la qualité de fonctionnaire conservent pendant leur séjour à l'école le bénéfice du traitement afférent à leur situation statutaire. **Article 8 :** Pour bénéficier de l'allocation prévue à l'article précédent, les élèves maîtres doivent constituer un dossier comprenant les pièces suivantes : Un extrait d'acte de naissance ; Une copie certifiée conforme des titres universitaires et une attestation de scolarité de la 4e année secondaire ; Une attestation de réussite au concours d'entrée à l'école régionale d'instituteurs ou d'institutrices ; Une notice individuelle en 4 exemplaires. **Chapitre IV : Durée et Organisation des Etudes.** **Article 9 :** La durée des études dans les écoles régionales d'instituteurs est de deux années scolaires, allant chacune du 1er octobre au 30 septembre de l'année suivante. **Article 10 :** Au cours de leur scolarité, les élèves maîtres reçoivent une formation générale et une formation pédagogique théorique et pratique sous forme de cours magistraux, de conférences, stages séminaires. **Articl",
+    "question": "Quelles étaient les pièces justificatives nécessaires pour bénéficier de l'allocation forfaitaire mensuelle ?",
+    "answer": "Une copie certifiée conforme des titres universitaires et une attestation de scolarité de la 4e année secondaire",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "val"
+  },
+  {
+    "id": "legal_qa_000079",
+    "context": "ence**(modifié par le décret n° 2-03-219 du 4 safar 1424 (7 avril 2003), par le décret n° 2-10-637 du 16 joumada I 1432 (20 avril 2011), par le décret n° 2-13-637 du 14 rejeb 1435 (14 mai 2014)) **** 4.1. La licence attribuée à AL HOURRIA TELECOM S.A a pour objet l'établissement et l'exploitation d'un réseau public de télécommunications par satellites de type GMPCS dans le respect des principes arrêtés et des conditions fixées par la législation et la réglementation en vigueur et par le présent cahier des charges. Les services objet de la présente licence se limitent à : \\- la téléphonie ; \\- la transmission de données. Toutefois, AL HOURRIA TELECOM S.A reste libre, dans le cadre de son réseau, de commercialiser l'ensemble de ses services en dehors du territoire national. 4.2. En particulier, AL HOURRIA TELECOM S.A doit, dans le respect des principes fondamentaux de continuité, d'égalité et d'adaptabilité : 4.2.1. assurer des services de télécommunications au départ et à l'arrivée des stations mobiles avec : a) tout abonné de son réseau ; b) tout abonné du réseau téléphonique commuté public (RTCP) au Maroc et à l'étranger, et c) tout abonné des réseaux de téléphonie mobile au Maroc et à l'étranger ; 4.2.2.",
+    "question": "Selon le cahier des charges, quelles sont les deux catégories de services de télécommunications que AL HOURRIA TELECOM S.A est autorisée à fournir sur le territoire national ?",
+    "answer": "la transmission de données",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "val"
+  },
+  {
+    "id": "legal_qa_000080",
+    "context": "ité et doit permettre que lesdites données soient sécurisées pour en assurer la confidentialité lors des transferts. 18\\. Lorsque le dispositif complémentaire met en oeuvre un ou plusieurs logiciels, les dispositions du point 9 de la présente annexe leurs sont applicables. *** * *** **** **Annexe II** **** **Exigences essentielles de construction supplémentaires pour les cinémomètres à visée axiale utilisant des faisceaux Laser pour effectuer la mesure** **** 1\\. L'angle entre l'axe d'émission du faisceau Laser et l'axe de visée du cinémomètre ne doit pas dépasser un dixième de degré d'angle. Le système de réglage de cet angle ne doit pas être accessible à l'utilisateur. 2\\. L'innocuité du ou des faisceaux Laser du cinémomètre doit être attestée par le fabricant ou son mandataire *** * *** **** **Annexe III** **** **Exigences essentielles de construction supplémentaires pour les cinémomètres utilisant plusieurs capteurs pour chaque voie contrôlée, installés au-dessus de la chaussée ou dans celle-ci** **** 1\\. Le fabricant doit définir les caractéristiques du positionnement de chaque capteur, d'une part, par rapport à la configuration de la chaussée et, d'autre part, par rapport aux autres capteurs auxquels il est associé pour les mesures de vitesse. 2\\. Dans",
+    "question": "Quelles sont les exigences supplémentaires de construction pour les cinémomètres à visée axiale utilisant des faisceaux Laser, notamment en ce qui concerne l'angle entre l'axe d'émission et l'axe de visée ?",
+    "answer": "Le système de réglage de cet angle ne doit pas être accessible à l'utilisateur",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "val"
+  },
+  {
+    "id": "legal_qa_000081",
+    "context": "Cette dernière limite d'âge pourra être prorogée d'une durée égale à celle des services civils antérieurs valables ou validables pour la retraite sans toutefois qu'elle puisse être reportée au-delà de 45 ans. **Article 2 :** Le concours comporte les deux épreuves écrites suivantes : a) Une dissertation sur un sujet d'ordre général (durée : 3 heures ; coefficient : 3) ; b) Pour la 2e épreuve (durée : 3 heures ; coefficient : 2) les candidats choisissent l'une des trois options suivantes : \\- Un sujet portant sur le programme de droit public et d'économie politique de la capacité en droit ; \\- Un sujet de géographie ou d'histoire du programme de classe terminale de l'enseignement secondaire ; \\- Un sujet portant sur la législation et la réglementation régissant le ministère d'Etat chargé des affaires étrangères. Les épreuves peuvent être rédigées en langue arabe, française ou espagnole au choix du candidat. **Article 3 :** Chacune des épreuves est notée de 0 à 20 et est dotée, du coefficient correspondant. Toute note inférieure à 5 sur 20 est éliminatoire. Entrent seuls en ligne de compte pour le classement définitif du concours les candidats ayant obtenu, sans note éliminatoire une moyenne au moins égale à 10 sur 20 pour l'ensemble des épreuves. **Article 4 :** Le déroulement d",
+    "question": "Quelles étaient les options pour la deuxième épreuve écrite du concours, et dans quelle langue pouvaient-elles être rédigées ?",
+    "answer": "Un sujet de géographie ou d'histoire du programme de classe terminale de l'enseignement secondaire",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "val"
+  },
+  {
+    "id": "legal_qa_000082",
+    "context": "complissement de missions pour le compte de la région ou lorsqu'ils sont mandatés pour représenter le conseil ou lors de leur participation aux sessions de formation continue prévue à l'article 56 ci-dessus . A cet effet, chaque région est tenue d'adhérer à un régime d'assurance, conformément aux lois et règlements en vigueur. ** Article 58 :** Les fonctionnaires et les agents de l'Etat, des collectivités territoriales et des établissements publics, élus en tant que membres du conseil de la région, bénéficient de plein droit, de permissions d'absence pour participer aux sessions du conseil et aux réunions des commissions dont ils sont membres ou des instances ou des établissements publics ou privés auprès desquels ils représentent le conseil conformément aux lois et règlements en vigueur, ainsi que pour participer aux sessions de formation continue visée à l'article 56 ci-dessus. Ces permissions sont données dans la limite de la durée effective de ces sessions ou réunions. La permission d'absence est accordée à plein traitement et sans entrer en ligne de compte pour le calcul des congés réguliers. ** Article 59 :** Les employeurs sont tenus d'accorder aux salariés de leurs entreprises élus en tant que membres du conseil de la régi",
+    "question": "Quelles sont les obligations des employeurs concernant les permissions d'absence pour les salariés élus au conseil de la région, et comment le temps passé en session est-il géré ?",
+    "answer": "aux réunions des commissions dont ils sont membres",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "val"
+  },
+  {
+    "id": "legal_qa_000083",
+    "context": "les normes marocaines et les documents ou produits à caractère normatif marocains, ainsi que ceux édités par les organisations étrangères, régionales ou internationales ayant des activités similaires ; * élaborer, à la demande des intéressés, les documents à caractère normatif, autres que les normes marocaines, tels des bonnes pratiques de fabrication, les guides d'usage et d'emploi, les brochures de documentation, ainsi que les référentiels de certification notamment pour les services ; * assurer la diffusion des informations sur les normes et règlements techniques nationaux et étrangers ; * fournir des prestations de service en matière d'étude, d'assistance technique, de formation et d'information relatives à la normalisation ; * représenter le Maroc dans toute organisation régionale ou internationale de normalisation et auprès des organismes étrangers de normalisation ; * participer, avec les départements ministériels concernés, dans les travaux des organisations spécialisées de normalisation ou à caractère normatif dans des domaines spécifiques ; * participer à l'établissement des conventions de coopération ou des accords de reconnaissance mutuelle en matière de normalisation et de certification ; * entreprendre toute initiative en vue de promouvoir la normalisation et la certification au niveau national. **** *",
+    "question": "Quelles sont les principales missions de l'Institut marocain de normalisation (IMANOR) et comment est-il administré ?",
+    "answer": "fournir des prestations de service en matière d'étude, d'assistance technique, de formation et d'information relatives à la normalisation",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "val"
+  },
+  {
+    "id": "legal_qa_000084",
+    "context": "anque marocaine du commerce extérieur projette de constituer une filiale à Madrid sous la dénomination \"B.M.C.E. International S.A. \"; L'activité de cette entité sera orientée principalement vers le financement des échanges maroco-espagnols, la participation aux crédits acheteurs proposés aux entreprises marocaines et étrangères, ainsi que le rapatriement des économies des ressortissants marocains en Espagne; La B.M.C.E. sera accompagnée dans cette action par les institutions qui jouent un rôle majeur dans le développement de l'économie marocaine et qui sont l'Etat représenté par le Trésor, l'Office chérifien des phosphates, Bank Al-Maghrib, la Société anonyme marocaine de l'industrie du raffinage, Royal Air Maroc ainsi que El Banco Extérior de Espana; La participation, à hauteur de 16 %, de la SAMIR au capital de cette banque vise à affirmer la crédibilité de celle-ci vis-à-vis de l'extérieur; Ce parrainage de premier ordre ne manquera pas de conférer, dès le départ, à la future banque une place de choix sur la place de Madrid et lui permettra d'entamer son activité sous les meilleurs auspices; Sur proposition du ministre du commerce, de l'industrie et de la privatisation, **Décrète :** **Article Premier :** La",
+    "question": "Quel était le contexte économique et politique qui a motivé ce décret d'autorisation de participation ?",
+    "answer": "Office chérifien des phosphates",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "val"
+  },
+  {
+    "id": "legal_qa_000085",
+    "context": "rique et de l'Organisation de l'unité africaine qui souscrivent aux présents statuts conformément aux dispositions de l'article 18 des présents statuts. **Article 5 : Obligations des Etats membres du centre** __ Les Etats membres du centre coopèrent dans toute la mesure de leurs moyens en vue d'aider le centre à atteindre ses objectifs. Ils doivent, notamment, faire tout leur possible pour : a) Prendre toutes les mesures nécessaires pour appliquer les décisions du conseil et du comité exécutif ; b) Faciliter la collecte, l'échange et la diffusion de renseignements ; c) Présenter les rapports, accords et renseignements relatifs à la mise au point, au transfert et à l'adaptation des techniques qu'ils possèdent et qui ne seront pas classés comme confidentiels, selon qu'ils pourront en être requis par les organes compétents du centre ; _d)_ Fournir des services de formation et de recherche aux classes et aux conditions dont aura décidé l'organe compétent du centre ; e) Fournir du personnel national pour les opérations et les activités du centre aux classes et aux conditions dont aura décidé l'organe compétent du centre ; _f)_ Verser les contributions annuelles fixées par le conseil et les contributions spéciales qui pourront être fixées",
+    "question": "Quels mécanismes de coopération entre les États membres étaient prévus pour soutenir le Centre ?",
+    "answer": "accords et renseignements relatifs à la mise au point",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "val"
+  }
+]

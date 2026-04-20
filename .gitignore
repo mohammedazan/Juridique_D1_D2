@@ -1,0 +1,34 @@
+# استثناء مجلد DATASET/data بالكامل وجميع محتوياته
+DATASET/data/
+
+# استثناء ملفات CSV الكبيرة
+DATASET/*.csv
+
+# استثناء ملفات أخرى ثقيلة
+*.pkl
+*.pickle
+*.h5
+*.pt
+*.pth
+*.model
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+EOF

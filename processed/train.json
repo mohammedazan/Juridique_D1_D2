@@ -1,0 +1,632 @@
+[
+  {
+    "id": "legal_qa_000001",
+    "context": "aucune partie de ladite capacité ne soit cédée au public ; 3° Transports effectués par des aéronefs dont toute la capacité est louée à une même personne physique ou morale pour le transport de son personnel ou de ses marchandises, pourvu qu'aucune partie de cette capacité ne soit cédée à un tiers. b) II en est de même pour les aéronefs utilisés pour l'une des activités suivantes : 1° Transports exclusifs de fret ; 2° Transports de passagers entre régions qui n'ont pas entre elles de liaisons et services aériens réguliers ; 3° Transports isolés, étant entendu qu'aux termes du présent alinéa aucun transporteur ou groupe de transporteurs n'a droit pour l'ensemble des aéronefs dont il dispose, à plus d'un transport par mois entre deux mêmes centres de trafic. Toutefois, chaque partie contractante peut exiger l'abandon des activités prévues au § b) du présent article si elle estime que celles-ci, sont préjudiciables aux intérêts de ses services aériens réguliers. De plus, en ce qui concerne l'activité mentionnée à l'alinéa 2) du présent §, chaque partie contractante peut définir librement l'étendue des régions (notamment le ou les aérodromes considérés), et modifier cette définition à tout moment. **** **Section II.** Les Etats contracta",
+    "question": "L'annexe II mentionne des transports isolés. Quelle est la limite imposée au nombre de transports isolés par mois entre deux mêmes centres de trafic pour un transporteur ou groupe de transporteurs ?",
+    "answer": "un transporteur ou groupe de transporteurs n'a droit",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000002",
+    "context": "apologie d'actes constituant des infractions de terrorisme, par les discours, cris ou menaces proférés dans les lieux ou les réunions publics ou par des écrits, des imprimés vendus, distribués ou mis en vente ou exposés dans les lieux ou réunions publics soit par des affiches exposées au regard du public par les différents moyens d'information audio-visuels et électroniques. » « _Article 218-3_. - Constitue également un acte de terrorisme, au sens du premier alinéa de l'article 218-1 ci-dessus, le fait d'introduire ou de mettre dans l'atmosphère, sur le sol, dans le sous-sol ou dans les eaux, y compris celles de la mer territoriale, une substance qui met en péril la santé de l'homme ou des animaux ou le milieu naturel. Les faits prévus au premier alinéa ci-dessus sont punis de dix à vingt ans de réclusion. La peine est la réclusion à perpétuité, lorsque les faits ont entraîné une mutilation, amputation ou privation de l'usage d'un membre, cécité, perte d'un œil ou toutes autres infirmités permanentes pour une ou plusieurs personnes. Le coupable est puni de mort lorsque les faits ont entraîné la mort d'une ou de plusieurs personnes. » « _Article 218-4_. - Constituent des actes de terrorisme les infractions ci-après : \\-",
+    "question": "Comment la loi n° 03-03 définit-elle l'acte de terrorisme lié à l'introduction de substances dangereuses dans l'environnement, selon l'article 218-3 ?",
+    "answer": "y compris celles de la mer territoriale",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000003",
+    "context": "exportation des produits explosifs, des artifices de divertissement, des matériels contenant des substances pyrotechniques et des matières premières sont fixées par voie réglementaire. **Chapitre VII De la fabrication** **** **Article 27 :** Les produits explosifs, les artifices de divertissement et les matériels contenant des substances pyrotechniques, ne peuvent être fabriqués que dans des fabriques autorisées, à cet effet, par l'administration. Les produits explosifs, les artifices de divertissement et les matériels contenant des substances pyrotechniques fabriqués doivent être entreposés, au fur et à mesure de leur achèvement, dans un dépôt autorisé de première catégorie. **Article 28 :** La demande d'autorisation d'établissement d'une fabrique est adressée, à l'administration, par toute société de droit marocain justifiant des capacités techniques et financières requises pour la fabrication de produits explosifs, des artifices de divertissement et des matériels contenant des substances pyrotechniques. Ladite demande d'autorisation est soumise à l'avis conforme préalable de la CNE. Ladite demande est approuvée à l'unanimité par la CNE, et soumise à une enquête publique dans la limite de l'étendue des zones de dang",
+    "question": "Quelles sont les conditions spécifiques pour qu'une société de droit marocain puisse obtenir l'agrément pour fabriquer ou importer des produits explosifs à usage civil ?",
+    "answer": "au fur et à mesure de leur achèvement",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000004",
+    "context": "ou à la fabrique doit faire l'objet d'une protection périphérique de manière à interdire le passage à tout véhicule non autorisé. \\- Niveau de détection 2 : une détection périmétrique permettant de déceler une intrusion au niveau des accès du dépôt ou de la fabrique. Elle est destinée à déceler, avant la pénétration à son intérieur, la tentative d'ouverture ou de détérioration des issues, ouvrants, parois ainsi que parties de parois de faible résistance mécanique du bâtiment et peut être assurée par : • une détection d'ouverture des issues et des ouvrants extérieurs de l'installation ; • une détection à la détérioration, sous l'effet par exemple de chocs ou de phénomènes sismiques, des issues, des ouvrants, des parois ou des parties de parois de faible résistance mécanique. \\- Niveau de détection 3 : une détection intérieure permettant de déceler une intrusion interne au dépôt ou à la fabrique. Elle peut être assurée notamment par : • une détection d'ouverture des issues et des ouvrants intérieurs à l'installation ; • une détection à la détérioration des issues, des ouvrants et des parties de parois de faible résistance mécanique ; • une détection de passage par les ouvertures ou dans les circulations ; • une détection de mouvement dans les passages obligés, locaux et aux abords du dépôt ou de la fabrique. La conservation des enregistrements vidéos doit être ob",
+    "question": "Décrivez les trois niveaux du système de détection requis pour les dépôts, armoires et fabriques, en précisant les technologies possibles pour chaque niveau.",
+    "answer": "détection à la détérioration, sous l'effet par exemple de chocs ou de phénomènes sismiques, des issues, des ouvrants, des parois ou des parties de parois de faible résistance mécanique",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000005",
+    "context": "** Le présent arrêté a pour objet de fixer les conditions à respecter pour l'établissement des cartes aéronautiques servant pour la circulation aérienne. **** **Article 2 : Principes généraux** **** Les cartes aéronautiques doivent être établies conformément à l'annexe du présent arrêté, pour fournir des renseignements correspondant aux différentes phases du vol, en vue d'améliorer la sécurité de la navigation aérienne et répondre à toutes les conditions d'exploitations normales. **** **Article 3 : Caractéristiques des cartes aéronautiques** **** Les caractéristiques des cartes aéronautiques, les renseignements qu'elles doivent contenir ainsi que les différentes cartes de la circulation aérienne sont définies dans l'annexe du présent arrêté. **Article 4 :** Le présent arrêté sera publié au Bulletin officiel. Rabat, le 8 safar 1435 (12 décembre 2013). **Aziz Rabbah.** **Annexe** **** **Chapitre 1. Spécifications générales** **** **Part I Définition/Abréviation** **** Aux fins de la présente annexe les expressions ci-après s'entendent de la manière suivante : **Accotement** Bande de terrain bordant une chaussée et traitée de façon à offrir une surface de raccordement entre cette chaussée et le terrain environnant. **Adresse de",
+    "question": "Quels types de renseignements doivent contenir les cartes aéronautiques selon l'annexe de l'arrêté ?",
+    "answer": "les renseignements qu'elles doivent contenir",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000006",
+    "context": "pts des ravageurs et des maladies visés à l'annexe III au présent règlement technique. Tout matériel végétal qui, lors du contrôle, ne répond pas aux prescriptions du présent IV-1, doit, selon le cas, être traité ou arraché et détruit. Lorsqu'il s'agit de matériel de base ou de plant certifié, la destruction concerne l'ensemble du lot. **IV-1-1- Matériel de départ et de pré-base** **** Le matériel de départ et de pré-base sont contrôlés visuellement et font l'objet des contrôles suivants : \\- avant la plantation : vérification de l'origine des plants et contrôle du respect de l'isolement ; \\- pendant la production : * contrôle de l'authenticité variétale et de l'état sanitaire des plants ; * estimation de la production de boutures avant leur prélèvement. **IV-1-2- Matériel de base** **** Le contrôle du matériel de base est effectué sur le matériel végétal destiné à la production de boutures. Ce contrôle est effectué, comme suit : \\- avant la plantation : vérification de l'origine des plants et contrôle du respect de l'isolement ; \\- pendant la production : * contrôle de l'authenticité variétale et de l'état sanitaire des plants ; * estimation de la production de boutures avant leur prélèvement. Les plants sont contrôlés visuellement et font l'objet, le cas échéant, de prélève",
+    "question": "Comment le contrôle du matériel végétal est-il organisé en pépinière, selon les étapes de production ?",
+    "answer": "pendant la production : * contrôle de l'authenticité variétale et de l'état sanitaire des plants",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000007",
+    "context": "onnées génétiques, à l'exception de ceux mis en œuvre par des personnels de santé et qui répondent à des fins médicales, qu'il s'agisse de la médecine préventive, des diagnostics ou des soins ; d) des données portant sur les infractions, condamnations ou mesures de sûreté, à l'exception de ceux mis en œuvre par les auxiliaires de justice ; e) des données comportant le numéro de la carte d'identité nationale de la personne concernée ; f) l'interconnexion de fichiers relevant d'une ou de plusieurs personnes morales gérant un service public et dont les finalités d'intérêt public sont différentes ou l'interconnexion de fichiers relevant d'autres personnes morales et dont les finalités principales sont différentes. 2\\. d'une déclaration préalable dans les autre cas. ** Section première : Déclaration préalable** **Article 13 :** La déclaration préalable prévue à l'article 12 ci-dessus, qui comporte l'engagement que le traitement sera effectué conformément aux dispositions de la présente loi, est déposée auprès de la Commission nationale dans les conditions prévues à la présente section. Cette déclaration a pour objet de permettre à la Commission nationale d'exercer les compétences qui lui sont dévolue par la présente loi, afin de contrôler le respect de ses dispositions et d'assurer la publicité du trai",
+    "question": "Dans quels cas un traitement de données à caractère personnel nécessite-t-il une autorisation préalable de la Commission nationale, et non une simple déclaration, selon l'article 12 ?",
+    "answer": "ou l'interconnexion de fichiers relevant d'autres personnes morales et dont les finalités principales sont différentes",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000008",
+    "context": "cessitant d'une façon impérieuse l'union de tous et l'élimination de tout obstacle de nature à contrecarrer son accomplissement, l'Etat doit préserver l'unité de la Nation et s'opposer à tout ce qui est susceptible de semer la division au sein de la communauté nationale. **Article 7 :** Les Marocains sont égaux. Ils ont les mêmes droits et les mêmes devoirs. **Article 8 :** L'Etat doit protéger la dignité des personnes et garantir l'exercice des libertés publiques et privées. **Article 9 :** Tout Marocain a le droit de se faire rendre justice. L'Etat doit assurer la jouissance de ce droit par la séparation des pouvoirs, l'indépendance de la magistrature et toutes autres garanties démocratiques. **Article 10 :** II ne peut y avoir d'infraction ni de peine qu'en vertu d'une loi préalablement édictée. Les peines sont personnelles. **Article 11 :** L'Etat doit protéger les personnes contre le détournement de pouvoir, l'excès de pouvoir, l'abus de pouvoir, la concussion et sévir contre toute atteinte aux fondements institutionnels du Royaume. **Article 12 :** Les structures économiques du pays doivent avoir pour but la réalisation de la justice sociale, le développement de la production, l'élévation du niveau de",
+    "question": "En quoi la Loi fondamentale de 1961 a-t-elle préparé le Maroc à l'instauration d'une constitution définitive ?",
+    "answer": "la séparation des pouvoirs",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000009",
+    "context": "....................................................................................................................» **_(la suite sans modification.)_** « **Article 64****.** \\- Détermination du revenu foncier imposable **I**. - .............................................................................................................................................................................. ....................................................................................................................................................... pour le compte des locataires. « **II**. - Le revenu net imposable des immeubles visés à l'article 61 (I-A-1°, B, C et D) ci-dessus est obtenu en appliquant un abattement de 40% sur le montant du revenu foncier brut tel qu'il est défini au I ci-dessus. **III**.- Le revenu brut imposable ....................................................................................................................................» **_(la suite sans modification.)_** « **Article 65**. - **II**. - le prix d'acquisition est augmenté .................................................................................................... ....................................................................................",
+    "question": "Comment est déterminé le revenu net imposable des immeubles, et quel abattement est appliqué sur le revenu foncier brut, selon l'article 64 ?",
+    "answer": "Le revenu net imposable des immeubles visés à l'article 61 (I-A-1",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000010",
+    "context": "un délai maximum de six mois. Au cas où un solde subsiste à la date du 31 décembre 1974, celui sera réglé par la partie débitrice en devises convertibles. **Article 3 :** La Banque du Maroc et la Ceskoslovenska obchodni banka a. s. sont chargées de convenir des modalités techniques de l'exécution des dispositions du présent protocole. **Article 4 :** Le présent protocole sera soumis à l'approbation des autorités compétentes conformément à la procédure constitutionnelle en vigueur dans chacun des deux pays. Il entrera en vigueur le jour de l'échange des instruments de l'approbation avec effet à partir du 1er juillet 1974. Fait à Rabat, le 11 avril 1974, en double original en langue française, les deux textes faisant également foi. Pour le gouvernement du Royaume du Maroc, **Mohammed Guessous.** | Pour le gouvernement de la République Socialiste Tchécoslovaque, **Josef Koci.** ---|--- **** ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/543.html type: Dahir date_publication: 1982-05-06 title: Dahir n° 1-82-77 du 11 rejeb 1402 (6 mai 1982) portant publication de l'accord commercial à long terme, de ses annexes et du protocole relatif au régime des paiements, faits à Rabat l",
+    "question": "Comment le protocole relatif au régime des paiements visait-il à faciliter les échanges commerciaux entre les deux pays ?",
+    "answer": "à partir du 1er juillet 1974",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000011",
+    "context": "s fonctions exercées dans le cadre. Les agents reçus au concours sont classés à l'échelle n° 5. ** Article 13 :** Les agents classés à l'échelle n° 5, pourront accéder à l'échelle n° 6 : par voie d'examen d'aptitude professionnelle, lorsqu'ils sont parvenus au moins au 4e échelon de leur échelle ; par voie d'inscription au tableau d'avancement, lorsqu'ils ont atteint au moins le 8e échelon de leur échelle. ** ****D -_Agents supérieurs._** **Article 14 :** Les agents supérieurs sont classés aux échelles nos 7 à 10. ** Article 15 :** Les agents supérieurs sont recrutés par voie de concours : 1° Parmi les candidats titulaires du baccalauréat de l'enseignement du second degré ; 2° Parmi les agents du cadre de contrôle et d'application ayant atteint au moins le 4e échelon de l'échelle n° 6. Ces agents sont classés à l'échelle n° 7. ** Article 16 :** Les agents classés à l'échelle n° 7 pourront accéder à l'échelle n° 8 : par voie d'examen professionnel, lorsqu'ils sont parvenus**** au**** moins au 4e échelon de leur échelle ; par voie description au tableau d'avancement, lorsqu'ils ont atteint au moins le 8e échelon de leur échelle. ** Article 17 :** Les chefs de service ou de délégation sont classés à l'échelle n° 9. Ils sont recrutés : 1° Directement sur titre parmi les candidats justifiant d'un diplôme d'enseignement supérieur ; 2° Par voie d'examen d'aptitude professionnelle parmi les agents supérieurs parvenus au m",
+    "question": "Quelles sont les deux voies d'accès à l'échelle n°7 pour les agents supérieurs ?",
+    "answer": "Parmi les candidats titulaires du baccalauréat de l'enseignement du second degré ; 2° Parmi les agents du cadre de contrôle et d'application ayant atteint au moins le 4e échelon de l'échelle n° 6. Ces agents sont classés à l'échelle n° 7",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000012",
+    "context": "dement des hommes ; \\- la mise en place des procédures de contrôle ; \\- la valorisation des fonctions de pilotage et de contrôle (audit) ; \\- la fixation de critères appropriés pour la nomination aux postes de responsabilités. En général, l'organisme doit mettre en place les structures nécessaires à la prise en charge des principales fonctions suivantes : **\\- Fonctions et domaines d'appui :** **** **1- Fonction logistique** \\- gestion de ressources humaines ; \\- approvisionnements et marchés \\- moyens matériels et logistiques. **2- Fonction financière et informatique** \\- gestion financière, comptable et de trésorerie ; \\- informatique et système d'information. **3- Fonction contrôle** \\- fonction juridique ; \\- fonction audit interne ; \\- fonction contrôle de gestion ; \\- fonction inspection si nécessaire, notamment, pour les organismes à structures décentralisées. Ces trois dernières fonctions doivent être de préférence rattachées à la direction. **\\- Structures opérationnelles :** **** * structures en relation avec l'activité et la mission de l'établissement. Il reste entendu que ces structures doivent être adaptées à la nature de l'activité et aux spécificités de l'organisme. De même, l'organisme doit éviter la multiplication des niveaux hiérarchiques et établir son organisation en fonction des moyens et dans l'objectif d'optimisation des charges de personnel. En outre, la nomination aux po",
+    "question": "Quels sont les principes fondamentaux qui doivent guider l'élaboration de l'organigramme d'un établissement public, et quelles fonctions doivent être prises en charge ?",
+    "answer": "comptable et de trésorerie ; \\- informatique et système d'information. **3- Fonction contrôle** \\- fonction juridique ; \\- fonction audit interne ; \\- fonction contrôle de gestion ; \\- fonction inspection si nécessaire",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000013",
+    "context": "le propriétaire à l'assistant en vertu du paragraphe 1 peut être augmentée jusqu'à un maximum de 30% des dépenses engagées par l'assistant. Toutefois, si le tribunal le juge équitable et juste, compte tenu des critères pertinents énoncés au paragraphe 1 de l'article 13, il peut encore augmenter cette indemnité spéciale, mais l'augmentation totale ne doit en aucun cas représenter plus de 100 % des dépenses engagées par l'assistant. 3 Les dépenses de l'assistant visent, aux fins des paragraphes 1 et 2, les débours raisonnablement engagés par l'assistant dans les opérations d'assistance ainsi qu'une somme équitable pour le matériel et le personnel effectivement et raisonnablement utilisés dans les opérations d'assistance, compte tenu des critères énoncés aux alinéas h), i) et j) du paragraphe 1 de L'article 13. 4 L'indemnité totale visée au présent article n'est payée que dans le cas et dans la mesure où elle excède la rémunération pouvant être obtenue par l'assistant en vertu de l'article 13. 5 si L'assistant a été négligeant et n'a pu, de ce fait, prévenir ou Limiter les dommages à l'environnement il peut être privé de la totalité ou d'une partie de toute indemnité spéciale due en vertu du présent article. 6 Aucune disposition du présent article ne porte atteinte aux droits de recours du propriétaire du nav",
+    "question": "Quelles sont les conditions pour qu'un assistant ait droit à une indemnité spéciale, et comment cette indemnité est-elle calculée en cas de prévention ou de limitation des dommages à l'environnement ?",
+    "answer": "une somme équitable pour le matériel et le personnel effectivement et raisonnablement utilisés dans les opérations d'assistance",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000014",
+    "context": "écision prise. Le président du tribunal compétent procède aux formalités prévues aux alinéas 4 et 5 ci-dessus au cours de la procédure de la prévention externe ou de la conciliation. ** Titre II : Les procédures de prévention des difficultés de l'entreprise** **** **Chapitre premier : La prévention interne** **** **Article 547 :** (abrogé et remplacé par l'article premier de la loi n° 73-17 promulguée par le dahir n° 1-18-26 du 2 chaabane 1439 (19 avril 2018)) Lorsque le chef de l'entreprise ne procède pas, de son propre chef, au redressement des faits de nature à compromettre l'exploitation, le commissaire aux comptes, s'il en existe, ou tout associé dans la société informe le chef de l'entreprise des faits ou des difficultés de nature à compromettre la continuité de l'exploitation, notamment ceux de nature juridique, économique, financière ou sociale et ce, dans un délai de 8 jours de leur découverte par lettre recommandée avec accusé de réception, l'invitant à redresser la situation. Faute d'exécution par le chef d'entreprise dans un délai de 15 jours de la réception ou s'il n'arrive pas personnellement ou après délibération du conseil d'administration ou du conseil de surveillance, selon le cas, à un résultat positif,",
+    "question": "Dans le cadre de la procédure de conciliation, quels types d'informations le président du tribunal peut-il obtenir auprès de diverses entités pour évaluer la situation économique et financière de l'entreprise, et quel rôle un expert peut-il jouer dans ce processus ?",
+    "answer": "le commissaire aux comptes, s'il en existe",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000015",
+    "context": "tombent malades quand elles accompagnent leur mari en congé administratif, en congé de maladie, ou en détachement en dehors de leur résidence, ou qui sont dans l'obligation, pour raison de santé dûment justifiée, de quitter la résidence ; c) Aux enfants considérés comme étant à charge, qui sont absents du domicile paternel pour quelque cause que ce soit : (modifié par l'article 1er de l'arrêté du directeur général des finances du 25 janvier 1932)**** 4° Les frais d'accouchement ne sont pas cependant exclus du remboursement partiel. Les honoraires du médecin appelé pour assister la sage-femme ou les honoraires du médecin spécialiste appelé par le médecin ordinaire, dans les cas d'accouchements difficiles. **Article 5 :** Les officiers et agents des brigades admis dans les hôpitaux, subissent au cours de leur séjour dans ces établissements une retenue mensuelle sur leurs appointements à titre de contribution au paiement des frais d'hospitalisation. Cette retenue est effectuée d'après un barème dont les taux de pourcentage sont fixés par le directeur des douanes et régies et varient suivant la situation de famille des intéressés et le nombre de personnes à leur charge. **Chapitre II : Service de casernement** **Article 6 :** Dans les localités où les nécessités du service le comportent, où les",
+    "question": "Dans quelles circonstances les frais d'accouchement sont-ils inclus dans le remboursement partiel des dépenses de santé ?",
+    "answer": "ou les honoraires du médecin spécialiste appelé par le médecin ordinaire, dans les cas d'accouchements difficiles",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000016",
+    "context": "29 :** Le régime alimentaire des animaux d'aquaculture doit tenir compte de la santé animale, de la composition et de la qualité des aliments ainsi que leur incidence sur l'environnement. Les animaux d'aquaculture continentale doivent être nourris avec des aliments d'origine végétale ou animale disponibles naturellement dans les étangs et les lacs. Toutefois, si ces aliments ne sont pas disponibles en quantités suffisantes, l'apport d'aliments d'origine végétale ou animale obtenus selon le mode de production biologique est possible. **Article 30 :** Pour les animaux d'aquaculture carnassiers, l'apport en aliments d'origine végétale biologique dans la ration quotidienne, ne doit pas dépasser 60%. Les farines et les huiles de poissons utilisées dans l'alimentation des crevettes doivent être issues exclusivement des pêcheries réglementées et leur apport ne doit pas dépasser 10% de la ration alimentaire quotidienne. **** **Article 31 :** Outre les aliments disponibles dans le milieu aquatique naturel indiqués à l'article 29 ci-dessus, les aliments destinés aux animaux d'aquaculture carnassiers doivent provenir essentiellement des catégories suivantes : \\- aliments issus de l'aquaculture biologique ; \\- farines et huiles de poisson provenant de chutes de parage de poissons issus de l'aq",
+    "question": "Dans le cadre de l'alimentation des animaux d'aquaculture carnassiers, quel est le pourcentage maximal d'aliments d'origine végétale biologique autorisé dans la ration quotidienne ?",
+    "answer": "l'apport en aliments d'origine végétale biologique dans la ration quotidienne, ne doit pas dépasser 60",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000017",
+    "context": "is à l'appui, la façon dont sont constituées les prises de terre et leur résistance initiale. Les mesures d'isolement de la gaine protégeant le câble d'alimentation des moteurs des grues dont il est fait mention à l'article 26 seront, prises à chaque visite d'entretien ou de nettoyage des machines et au minimum une fois par mois. **Article 37 bis :** (institué par l'article 2 de l'arrêté 28 rebia I 1371 (28 décembre 1951)) Sans préjudice des prescriptions des articles précédents, les installations de toutes catégories doivent être vérifiées, lors de leur mise en service, puis, périodiquement, à des intervalles pouvant varier entre un et dix ans et fixés par arrêté du directeur du travail et des questions sociales suivant l'importance des établissements et la nature des travaux effectués. Cette vérification doit être confiée par le chef de l'établissement à des techniciens et les résultats en seront consignés immédiatement sur le registre prévu à l'article 37. Elle a pour objet de rechercher notamment si les installations ont été établies et entre tenues conformément aux dispositions du présent arrêté et des arrêtés pris pour son application, et concerne plus spécialement les modifications et adjonctions effectuées depuis la vérifica",
+    "question": "Quelles sont les obligations en matière de surveillance et d'entretien des installations électriques, et comment les défauts d'isolement doivent-ils être traités ?",
+    "answer": "à des intervalles pouvant varier entre un et dix ans",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000018",
+    "context": "à sa disposition pendant toute la durée de l'enquête. Le dossier et le registre en question sont déposés au niveau de chacune des communes dont le ressort territorial est couvert intégralement ou partiellement par le périmètre de sauvegarde. **Article 14 :** La décision d'ouverture de l'enquête publique est publiée par les soins du directeur de l'Agence et du directeur de l'Office, chacun selon ses compétences, au moins dans deux journaux d'annonces légales et porté à la connaissance du public par les soins de l'autorité administrative locale par tout autre moyen approprié. Elle est également affichée dans les locaux de la province de Chtouka Aït Baha et de la commune concernée. Cet affichage est constaté par des attestations versées au dossier de l'enquête par l'autorité administrative locale et le président du conseil communal concerné. Ces opérations de publicité doivent avoir lieu au moins quinze (15) jours avant la date d'ouverture de l'enquête. **Article 15 :** Pendant la durée de l'enquête, le président du conseil communal concerné met à la disposition du public, au siège de la commune concernée, un registre d'observation, coté et paraphé par ses soins, destiné à recevoir les observations et réclamations éventuelles des tiers. **Article 16 :** Au terme de l'e",
+    "question": "Quelles sont les étapes précises de la procédure de régularisation des prélèvements d'eau non déclarés dans le périmètre de sauvegarde de Chtouka, après le recensement global ?",
+    "answer": "affichée dans les locaux de la province de Chtouka Aït Baha et de la commune concernée",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000019",
+    "context": "Vu la Constitution, notamment son article 65 ; Vu le dahir n° 1-02-330 du 2 ramadan 1423 (7 novembre 2002) portant délégation en matière d'administration de la défense nationale ; Vu la loi 37-80 relative aux centres hospitaliers, promulguée par le dahir n° 1-82-5 du 30 rabii I 1403 (15 janvier 1983), telle qu'elle a été modifiée et complétée, notamment son article 2 ; Vu la loi n° 01-00 portant organisation de l'enseignement supérieur, promulguée par le dahir n° 1-00-199 du 15 safar 1421 (19 mai 2000), notamment ses articles 8 et 19 ; Vu le décret n° 2-73-657 du 16 safar 1394 (11 mars 1974) relatif à l'organisation et au fonctionnement des formations hospitalières des Forces armées royales, tel qu'il a été modifié et complété, notamment son article premier ; Vu le décret n° 2-86-74 du 20 kaada 1408 (5 juillet 1988) pris pour l'application de la loi n° 37-80 relative aux centres hospitaliers, tel qu'il a été modifié et complété ; Vu le décret n° 2-90-554 du 2 rejeb 1411 (18 janvier 1991) relatif aux établissements universitaires et aux cités universitaires, tel qu'il a été modifié et complété ; Vu le décret n°2-98-548 du 28 chaoual 1419 (15 février 1999) portant statut particulier du corps des enseignants chercheurs en médecine et pharmacie et en médecine dentaire, tel qu'il a é",
+    "question": "En quoi le décret 2-73-657 est-il pertinent pour la création des CHU ?",
+    "answer": "relatif à l'organisation et au fonctionnement des formations hospitalières des Forces armées royales",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000020",
+    "context": "| 1.120.000.000 | 2.600.000.000 | 3.720.000.000 2.0.12 | Ministère de la santé publique | 691.030.000 | 1.481.000.000 | 2.172.030.000 2.0.13 | Ministère des finances | 307.917.000 | 385.940 000 | 693.857.000 2.3.13 | Ministère des finances - Charges communes | 3.410.980.000 | 1.767.140.000 | 5.178.120.000 2.0.14 | Ministère du tourisme | 134.490.000 | 20.500.000 | 154.990.000 2.0.15 | Ministère des pêches maritimes et de la marine marchande | 12.500.000 | 114.730.000 | 127.230.000 2.0.16 | Secrétariat général du gouvernement | 3.890.000 | - | 3.890.000 2.0.17 | Ministère des travaux publics, de la formation professionnelle et de la formation des cadres | 2.512.100.000 | 11.722.000.000 | 14.234.100.000 2.0.18 | Ministère des transports | 463.610.000 | 598.513.400 | 1.062.123.400 2.0.19 | Ministère des postes et des télécommunications | 11.000.000 | 33.000.000 | 44.000.000 2.0.20 | Ministère de l'agriculture et de la mise en valeur agricole | 2.206.336.000 | 4.970.000.000 | 7.176.336.000 2.0.21 | Ministère de la jeunesse et des sports | 103.840.000 | 118.000.000 | 221.840.000 2.0.22 | Ministère de la privatisation délégué auprès du Premier ministre chargé des entreprises d'État | 15.643.000 | - | 15.643.000 2.0.23 | Ministère des Habous et de",
+    "question": "Quel ministère a reçu le plus important budget d'investissement en 1994 ?",
+    "answer": "de la formation professionnelle et de la formation des cadres",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000021",
+    "context": "### Context: **Equipement en abri-serre pour la production de tomates et légumes** **Ristournes d'intérêts** **** **Article 20 :** Des ristournes d'intérêts au taux de 2,5 % sont versées par l'Etat à la Caisse nationale de crédit agricole, par décision de l'administration, pour venir en déduction des intérêts payables par les bénéficiaires des prêts contractés dans le cadre de l'opération “ équipement en abri-serre pour la production de tomates et légumes ”. **Article 21 :** Les dispositions des articles 1 bis à 5 inclus, 6-I, 8 à 20 inclus sont applicables à compter du 12 safar 1400 (1er janvier 1980). **II. - Ressources affectées** **** **Article 22 :** Sous réserve des dispositions de la présente loi, les affectations résultant de budgets annexes et de comptes spéciaux du Trésor ouverts à la date du 31 décembre 1979 sont confirmées pour l'année 1980. **Article 23 :** La perception des taxes parafiscales continuera d'être opérée pendant l'année 1980, conformément aux dispositions législatives et réglementaires en vigueur. **Titre II : Dispositions relatives à l'équilibre des ressources et des charges** **** **Article 24 :** Pour l'année 1980, les ressources affectées au",
+    "question": "À partir de quelle date les dispositions des articles 1 bis à 5 inclus, 6-I, 8 à 20 inclus sont-elles applicables ?",
+    "answer": "8 à 20 inclus sont applicables à compter du 12 safar 1400",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000022",
+    "context": "ocaines, par le biais de l'Ambassade d'Espagne à Rabat, feront part aux autorités espagnoles des possibilités de satisfaire cette demande de travail par l'envoi de travailleurs marocains désireux de se déplacer en Espagne. 2 - Pour chaque candidat, l'offre d'emploi devra indiquer : \\- le nom ou raison sociale, et le domicile de l'employeur ou organisation d'employeurs ; \\- le secteur et la zone géographique de l'activité ; \\- le nombre de travailleurs à embaucher ; \\- la date-limite de sélection ; \\- la durée de l'emploi ; \\- les informations générales sur les conditions de travail, salaires, logement et rémunération en nature ; \\- les dates auxquelles les travailleurs sélectionnés devront se présenter sur leur lieu de travail en Espagne ; \\- les nom, prénom et domicile du travailleur, dans le cas où les offres d'emploi seraient nominatives. **Chapitre II : Evaluation des qualités professionnelles requises, voyage et accueil des travailleurs migrants** **Article 4 :** L'évaluation des conditions professionnelles requises et le déplacement des travailleurs migrants s'effectueront conformément aux règles suivantes : 1 - La sélection (professionnelle) des candidats sera à __ la charge d'une Commission hispan",
+    "question": "Quelles sont les obligations des autorités marocaines en matière de facilitation du processus de recrutement des travailleurs migrants en Espagne, selon l'article 5 de l'Accord ?",
+    "answer": "logement et rémunération",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000023",
+    "context": "s d'investissements à réaliser dans une zone du littoral non couverte par des documents d'urbanisme ou dans des zones sensibles, doit comporter ; 1\\. l'esquisse du projet ; 2\\. un document établissant le lien juridique entre la propriété et le demandeur ; 3\\. tout autre document jugé utile pour l'étude du projet. **Article 19 :** La commission est tenue d'observer les principes de base suivants : 1 - l'intérêt économique et social du projet ; 2 - la protection et la sauvegarde des zones sensibles visées à l'article 2 du présent décret ; 3 - la préservation du caractère public des plages ; 4 - la préservation des sites devant recevoir des unités d'aménagement touristiques. **Article 20 :** La décision afférente au projet est délivrée par le Wali de région. **Chapitre VI : Dispositions communes** **Article 21 :** Les dossiers dûment constitués, conformément aux dispositions du présent décret, sont déposés auprès du Centre régional d'investissement, contre récépissé signé et daté. Le directeur du Centre régional d'investissement en adresse, pour étude, un exemplaire à chaque membre de la commission. **Article 22 :** La commission se réunit sur convocation de son président. **Article 23 :** Les dossiers déposés sont instruits dans un délai maximum d'un (1) mois,",
+    "question": "Comment sont traités les projets d'investissement dans les zones littorales non couvertes par des documents d'urbanisme ou dans des zones sensibles, et quels sont les principes de base que la commission doit observer lors de leur examen ?",
+    "answer": "la préservation des sites devant recevoir des unités d'aménagement touristiques",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000024",
+    "context": "nts fournis sont en contradiction flagrante avec les faits, et si les circonstances de l'affaire justifient cette inspection. 6\\. Lorsqu'il y a preuve manifeste qu'un navire naviguant dans la zone économique exclusive ou la mer territoriale d'un Etat a commis, dans la zone économique exclusive, une infraction visée au paragraphe 3 ayant entraîné des rejets qui ont causé ou risquent de causer des dommages importants au littoral ou aux intérêts connexes de l'Etat côtier ou à toutes ressources de sa mer territoriale ou de sa zone économique exclusive, cet Etat peut, sous réserve de la section 7, si les éléments de preuve le justifient, intenter une action, notamment ordonner l'immobilisation du navire conformément à son droit interne. 7\\. Nonobstant le paragraphe 6, dans tous les cas où des procédures appropriées ont été soit établies par l'intermédiaire de l'organisation internationale compétente, soit convenues de toute autre manière pour garantir le respect des obligations concernant le versement d'une caution ou le dépôt d'une autre garantie financière appropriée, l'Etat côtier, s'il est lié par ces procédures, autorise le navire à poursuivre sa route. 8\\. Les paragraphes 3, 4, 5, 6 et 7 s'appliquent également aux lois",
+    "question": "Dans quelles circonstances un État côtier peut-il procéder à l'inspection matérielle d'un navire naviguant dans sa mer territoriale pour une infraction présumée à la réglementation sur la pollution ?",
+    "answer": "si les éléments de preuve le justifient",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000025",
+    "context": "fs combinés de bureau | | | | 8219 | Photocopie, préparation de documents et autres activités spécialisées de soutien de bureau | | | **822** | | **Activités de centres d'appels** | | | | 8220 | Activités de centres d'appels | | | **823** | | **Organisation de salons professionnels et congrès** | | | | 8230 | Organisation de salons professionnels et congrès | | | 829 | | Activités de soutien aux entreprises n.c.a. | | | | 8291 | Activités des agences de recouvrement de factures et des sociétés d'information financière sur la clientèle | | | | 8292 | Activités de conditionnement | | | | 8299 | Autres activités de soutien aux entreprises n.c.a. | **O** | | | | **ADMINISTRATION PUBLIQUE** | | **84** | | | **Administration publique et défense ; sécurité sociale obligatoire** | | | **841** | | Administration générale, économique et sociale | | | | 8411 | Administration publique générale | | | | 8412 | Administration publique (tutelle) de la santé, de la formation, de la culture et des services sociaux, autre que sécurité sociale | | | | 8413 | Administration publique (tutelle) des activités économiques ... . | | | **842** | | **Services de prérogative publique .** | | | | 8421 | Affaires étrangères | | | | 8422 | Défense | | | | 8423",
+    "question": "Comment les activités de soutien aux entreprises (82) contribuent-elles à la performance des autres secteurs économiques ?",
+    "answer": "Autres activités de soutien aux entreprises n.c.a",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000026",
+    "context": "10ème échelon de leur grade peuvent accéder au 11ème échelon, au choix après inscription au tableau d'avancement, dans la limite du 1/10 des postes inscrits au budget du grade concerné, selon le cas. L'avancement d'échelon à l'échelon immédiatement supérieur pour les grades d'officier principal des douanes et inspecteur principal des douanes a lieu tous les trois ans. **Section 2. - Avancement de grade** **Article 32 :** L'avancement au grade de : 1\\. gardien des douanes de 2ème grade a lieu, à la suite de la réussite à un examen d'aptitude professionnelle ou au choix, sur la base du mérite, après inscription au tableau annuel d'avancement, parmi les gardiens des douanes de 3ème grade, conformément aux dispositions du décret susvisé n° 2-04-403 du 29 chaoual 1426 (2 décembre 2005) ; 2\\. gardien des douanes de 1er grade a lieu, à la suite de la réussite à un examen d'aptitude professionnelle ou au choix, sur la base du mérite, après inscription au tableau annuel d'avancement, parmi les gardiens des douanes de 2ème grade, conformément aux dispositions du décret susvisé n° 2-04-403 du 29 chaoual 1426 (2 décembre 2005) ; 3\\. officier des douanes de 3ème grade a lieu, à la suite de la réussite à un examen d'aptitude professionnelle",
+    "question": "Quelles sont les modalités d'avancement de grade pour les inspecteurs des douanes ?",
+    "answer": "après inscription au tableau annuel d'avancement",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000027",
+    "context": "tiques contiendront toutes les données nécessaires pour déterminer le volume ainsi que l'origine et la destination du trafic. **Article 18 :** a) La fixation des tarifs à appliquer sur les services agréés desservant les routes figurant au présent accord sera faite dans la mesure du possible par accord entre les entreprises désignées. Ces entreprises procéderont : 1° Soit en appliquant les résolutions qui auront pu être adoptées par la procédure de fixation des tarifs de l'Association du transport aérien international (I.A.T.A.) ; 2° Soit par entente directe, après consultation, s'il y a lieu, des entreprises de transport aérien de pays tiers qui exploiteraient tout ou partie des mêmes parcours ; b) Les tarifs ainsi fixés devront être soumis à l'approbation des autorités aéronautiques de chaque partie contractante au minimum trente jours avant la date prévue pour leur entrée en vigueur, ce délai pouvant être réduit dans des cas spéciaux sous réserve de l'accord de ces autorités ; c) Si Les entreprises de transport aérien désignées ne parvenaient pas à convenir de la fixation d'un tarif conformément aux dispositions du paragraphe a) ci-dessus ou si l'une des parties contractantes faisait connaître son désaccord sur le tarif qui lui a été soumis conformément aux dispositions du paragr",
+    "question": "Quelles sont les deux méthodes principales prévues pour la fixation des tarifs des services aériens agréés, selon l'article 18 ?",
+    "answer": "des entreprises de transport aérien de pays tiers qui exploiteraient tout ou partie des mêmes parcours",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000028",
+    "context": "le milieu naturel ; \\- la capacité du demandeur à conduire l'opération d'introduction ou de réintroduction dans le milieu naturel et, s'il n'exécute pas lui-même ladite opération, sa capacité à la faire conduire et à la surveiller ; \\- le ou les lieux d'introduction ou de réintroduction des spécimens ; \\- l'évaluation des effets de l'introduction ou de la réintroduction envisagée sur l'état de conservation de l'espèce, sur la flore et la faune sauvages et sur les élevages et les cultures agricoles ; \\- le nombre, l'origine ainsi que la provenance géographique des animaux ou des végétaux dont l'introduction ou la réintroduction dans le milieu naturel est envisagée ; \\- la nature des mesures prévues pour accompagner et suivre, dans le temps, l'opération d'introduction ou de réintroduction dans le milieu naturel ; \\- les dispositions prévues pour réduire les risques que l'opération pourrait faire peser sur la sécurité des personnes et des biens ou sur la santé publique ; \\- les mesures prévues, selon le cas, pour réduire ou compenser les dommages que l'introduction ou la réintroduction dans le milieu naturel pourrait causer aux activités humaines, notamment, agricoles, forestières, touristiques et piscicoles ; \\- l'évaluation du coût total",
+    "question": "En dehors des cas d'importation, d'exportation ou de réexportation, quelles sont les autres situations où un permis ou un certificat est nécessaire pour les spécimens d'espèces protégées ?",
+    "answer": "l'introduction ou la réintroduction dans le milieu naturel",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000029",
+    "context": "nces et sous leur responsabilité, suivant les modalités applicables en matière de taxe unique sur les contrats d'assurances. Elle fait l'objet de versements distincts à l'appui desquels il est déposé par les entreprises d'assurances, des états spéciaux établis en double exemplaire pour chaque acompte trimestriel et pour la liquidation générale. **Article 7 :** Les contributions annuelles visées à l'article 4 du dahir du 3 septembre 1955 sont fixées aux taux ci-après, exclusifs de toute commission en faveur des intermédiaires : **** en incendie : 1 % de la valeur totale des biens garantis ; en incendie et explosions : 1,25 % de la valeur totale des biens garantis ; en tous risques : 1,50 % de la valeur totale des biens garantis. Ces taux comprennent la “ taxe sur les assurances ” instituée par le dahir du 14 septembre 1943 relatif au régime fiscal des contrats d'assurances. Ils pourront être révisés à tout moment. La révision s'appliquera aux contrats en cours mais les bénéficiaires de la garantie pourront dans ce cas faire cesser cette garantie et demander le remboursement de la contribution déjà versée au prorata du temps restant à courir jusqu'à l'échéance primitive de leur contrat. Les contributions sont versées à une caisse publique (trésorerie g",
+    "question": "Quels sont les taux des contributions annuelles pour les différents types de garanties (incendie, incendie et explosions, tous risques) ?",
+    "answer": "incendie et explosions : 1,25 % de la valeur totale des biens garantis",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000030",
+    "context": "imales destinées à la consommation publique ; Vu le dahir du 2 août 1924 (30 hija 1342) sur le commerce des viandes et produits de charcuterie (cliquez ici) ; Vu le dahir du 12 juillet 1914 (18 chaabane 1332) édictant des mesures de police, sanitaire à l'importation des animaux et produits animaux, et les dahirs qui l'ont modifié ou complété, **A Décidé ce qui suit :** **** **Article** **Premier :** La préparation, l'entreposage, l'importation et la vente des viandes découpées en morceaux ou en “ pièces ”, désossées ou non, et destinées à être vendues préemballées (présentées sous cellophane, pellicule cellulosique, ou tout autre procédé similaire agréé), sont soumis aux conditions prévues par le présent dahir. On entend par “ pièces de viandes ” les morceaux de viandes, désossées ou non, obtenus par la découpe de détail et qui doivent être vendus sous leur emballage d'origine. Les prescriptions du présent dahir sont également applicables aux abats tels que : cervelles, foie, rognons, préparés dans les conditions visées ci-dessus. **** **Article 2 :** Quiconque se propose, de préparer ou d'importer de la viande conditionnée sous emballage, découpée en morceaux et désossée, ou découpée en “ pièces ”, des",
+    "question": "Quels types de viandes étaient spécifiquement concernés par les réglementations de ce dahir ?",
+    "answer": "pellicule cellulosique",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000031",
+    "context": ".............................................................. 8 - Justification du choix de l'attributaire .................................................................................. ............................................................................................................................... Fait à.................le................. **Signature et cachet du maître d'ouvrage.** **** __________________________ _(1) préciser en détail le montant du détail estimatif ainsi que les différentes sommes à valoir, le cas échéant._ __ _(2) pour les marchés négociés, mentionner dans la mesure du possible les justifications du prix par rapport à ceux pratiqués dans la profession._ **** ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/6444.html type: Décision date_publication: 1999-07-13 title: Décision du Premier ministre n° 3-57-99 du 29 rabii I 1420 (13 juillet 1999) prise pour l'application de l'article 80 du décret n° 2-98-482 du 11 ramadan 1419 (30 décembre 1998) fixant les conditions et les formes de passation des marchés de l'Etat ainsi que certaines dispositions relatives à leur contrôle et leur gestion.",
+    "question": "Quels sont les éléments principaux qui doivent être inclus dans un rapport de présentation d'un marché, notamment en ce qui concerne le choix de l'attributaire et les justifications du prix ?",
+    "answer": "dans la mesure du possible",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000032",
+    "context": "céder à la fabrication, à la transformation ou à l'exportation du cannabis et de ses produits, un contrat de vente en vertu duquel lesdites coopératives s'engagent à livrer aux organismes précités les récoltes qui leur sont fournies par les cultivateurs et les producteurs. La livraison est effectuée en présence d'une commission réunie sur convocation de l'Agence, composée de représentants de l'Agence, des autorités administratives locales et des services de sécurité compétents. Un procès-verbal est établi à cet effet par les représentants de l'Agence où sont consignées l'identité des parties, la date et le lieu de la livraison, la quantité livrée, l'identité du transporteur et la destination de la récolte. Le procès-verbal est signé par les membres de ladite commission. La commission procède à la destruction immédiate de tout excédent de production qui dépasse les quantités objet du contrat conclu entre les coopératives et les organismes susmentionnés. Les modèles du contrat de vente et des procès-verbaux de livraison et de destruction sont fixés par voie réglementaire. **Article 11 :** L'Agence peut livrer les récoltes du cannabis directement aux sociétés ou aux autres personnes morales autorisées à procéder à la",
+    "question": "Quelles sont les obligations spécifiques des coopératives en matière de livraison des récoltes de cannabis aux sociétés autorisées, et quel est le rôle de la commission de livraison dans ce processus ?",
+    "answer": "la date et le lieu de la livraison",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000033",
+    "context": "ise conduite, le manque d'assiduité aux cours et stages et toute indiscipline peuvent entraîner des mesures disciplinaires. **Article 18 :** Les sanctions disciplinaires applicables aux élèves sont les suivantes : \\- l'avertissement ; \\- le blâme ; \\- le renvoi temporaire ne pouvant excéder 15 jours avec ou sans suspension de la rémunération ; \\- l'exclusion définitive. **Article 19 :** L'avertissement et le blâme sont prononcés par décision motivée du directeur de l'école sans consultation du conseil intérieur. Les autres sanctions sont prononcées par décision motivée du directeur de l'école après avis du conseil intérieur. **Article 20 :** Les sanctions disciplinaires prévues par l'article 18 ci-dessus sont applicables aux élèves fonctionnaires incriminés, sans préjudice de celles qui pourraient leur être infligées éventuellement par l'administration dont ils relèvent. **Article 21 :** Les sanctions disciplinaires prononcées à l'encontre des élèves fonctionnaires sont portées à la connaissance de leur administration d'origine. **Article 22 :** Les élèves élisent leur délégué de promotion et son suppléant au scrutin uninominal à un tour. Les délégués sont seuls habilités à représenter les élèves auprès de la di",
+    "question": "Comment sont régies les absences des élèves de l'ENA, et quelles sont les conséquences d'une absence injustifiée ?",
+    "answer": "après avis du conseil intérieur",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000034",
+    "context": "un huissier de justice, il est pourvu à son remplacement par ordonnance du président du tribunal de première instance du lieu de son bureau, par un autre huissier de justice du même ressort, aux fins de prendre d'office, sur réquisition du procureur du Roi ou à la demande de l'huissier de justice concerné, toutes les mesures nécessaires ou, le cas échéant, d'assurer la gestion et la direction du bureau. Le président du tribunal désigne un suppléant de l'huissier de justice ayant eu un empêchement, pour une période n'excédant pas six mois, soit sur proposition de l'huissier de justice concerné soit sur consultation de l'Ordre national des huissiers de justice. En cas d'empêchement définitif, le président du tribunal avise le ministre de la justice qui peut prendre une décision de mettre fin à l'exercice de sa profession. Dans les cas nécessitant la désignation d'un autre huissier de justice, soit pour la gestion du bureau, soit pour sa liquidation, le chef du secrétariat-greffe procède, en vertu d'une ordonnance du président du tribunal, à l'inventaire des documents se trouvant dans le bureau de l'huissier en présence du représentant du ministère public et du représentant de l'Ordre, après en avoir avisé le ministre de la justice. L'huissier de justice peut, à la disparition de",
+    "question": "Comment la loi n° 81-03 organise-t-elle le remplacement temporaire ou définitif d'un huissier de justice empêché ?",
+    "answer": "soit sur consultation de l'Ordre national des huissiers de justice. En cas d'empêchement définitif",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000035",
+    "context": "cement : de 22 post- larves/m2 au maximum Biomasse maximale : 240 g/m2 du sol **** **D- Mollusques.** **** Systèmes d'élevage | Filières, radeaux, élevage à plat, poches en filet, cages, ou tout autre dispositif approprié à l'élevage des mollusques. Dans le cas de la mytiliculture sur radeaux, uniquement une seule corde doit être suspendue par mètre carré. La longueur des cordes suspendues ne doit pas dépasser 20 mètres. ---|--- **** **Partie II : Espèces d'animaux d'aquaculture continentale.** **** **A - Densité** **** **Espèce** | **Densité maximale** ---|--- Truite fario (_Salmo trutta_) | 25 kg/m3 Truite arc-en-ciel : (_Oncorhynchus mykiss_) | 25 kg/m3 Tilapia : _Oreochromis niloticus_ | 20 kg/m3 Cyprinidés (en monoculture) : \\- Carpe commune _Cyprinus carpio_ \\- Carpe argentée _Hypophthalmichthys molitrix_ \\- Carpe herbivore (_Ctenopharyngodon idella_) | 1500 Kg / ha/an Poissons (en polyculture) : Espèces concernées : cyprinidés et autres espèces, y compris le tilapia (_Oreochromis niloticus_), la perche (_Perca fluviatilis_), le brochet (_Esox lucius_), la tanche (_Tinta tinta_), le barbeau (_Barbus_ barbus), le black bass (_Micropterus salmoides_), et le sandre (**Sander lucioperca**) | 500 Kg / ha/an **B- Elevage en étang d",
+    "question": "Quelles sont les densités maximales autorisées pour l'élevage de la truite fario, de la truite arc-en-ciel et du tilapia en aquaculture continentale ?",
+    "answer": "25 kg/m3 Truite arc-en-ciel : (_Oncorhynchus mykiss",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000036",
+    "context": "nts et souscrire des dettes dans la limite de 40% de la valeur des actifs mentionnés au 1), 2), 3), 4) et 5) de l'article 3 de la loi n° 70-14 précitée, désignés ci-après « actifs immobiliers », sous forme : \\- d'obligations émises conformément aux dispositions de la loi n° 17-95 relative aux sociétés anonymes promulguée par le dahir n° 1-96-124 du 14 rabii II 1417 (30 août 1996), telle qu'elle a été modifiée et complétée ; \\- des avances en compte courant d'associés ; \\- d'emprunts bancaires d'une maturité supérieure à une année. Pour l'appréciation de la limite mentionnée au premier alinéa, il est tenu compte de l'ensemble des emprunts et dettes souscrits directement par l'OPCI, ou indirectement à concurrence du pourcentage de sa participation dans les sociétés et les OPCI visés respectivement aux 4) et 5) de l'article 3 de la loi n° 70-14 précitée. Conformément au règlement de gestion de l'OPCI, les emprunts et dettes visés au premier alinéa ci-dessus doivent être affectés au financement des opérations entrant dans l'objet principal de l'OPCI tel que prévu à l'article premier de la loi n° 70-14 précitée, et/ou à titre exceptionnel pour faire face à des demandes de rachats de titres d'OPCI ayant un caractère inhabituel. **Article 16 :** Un OPCI peut contracter des e",
+    "question": "Quelles sont les limites d'endettement d'un OPCI, tant pour les emprunts liés aux actifs immobiliers que pour les emprunts de trésorerie, et comment ces emprunts doivent-ils être utilisés ?",
+    "answer": "il est tenu compte de l'ensemble des emprunts et dettes souscrits directement par l'OPCI",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000037",
+    "context": "s dispositions du code pénal ** Section V : La raison de commerce** **** **Article 69 :** Celui qui exploite un établissement de commerce, seul ou avec un associé en participation ne peut inscrire comme raison de commerce que son propre nom. Il ne peut rien ajouter à la raison de commerce qui indique un rapport de société mais il peut ajouter toutes indications servant à distinguer sa personne ou son établissement, pourvu qu'elles soient conformes à la vérité, ne puissent induire en erreur et ne lèsent aucun intérêt public. ** Article 70 :** Le droit de faire usage du nom d'un commerçant ou d'une raison de commerce inscrit au registre du commerce et publié dans un journal d'annonces légales, appartient exclusivement au propriétaire de ce nom ou de cette raison. Il ne peut être employé par aucun autre, même par celui qui a un nom de famille identique ; celui-ci doit, en constituant une raison de commerce, ajouter à son nom une autre indication qui le distingue nettement de la raison de commerce déjà existante. ** Article 71 :** Celui qui acquiert ou exploite un fonds de commerce peut, s'il y est expressément autorisé, continuer à faire usage du même nom ou de la même raison de commerce mais il est tenu d",
+    "question": "Comment le code de commerce protège-t-il la raison de commerce, et quelles sont les règles relatives à l'utilisation du nom d'un commerçant ou d'une raison de commerce par un tiers, notamment en cas de cession ou de succession ?",
+    "answer": "une raison de commerce",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000038",
+    "context": "général à toutes les Parties pour acceptation. _c)_ A moins que la conférence n'en décide autrement, l'amendement est réputé avoir été accepté et entre en vigueur conformément aux procédures prévues aux alinéas 2) _f)_ et _g)_. 4) L'adoption et l'entrée en vigueur d'un amendement consistant à ajouter une annexe ou un appendice sont soumises aux procédures applicables à un amendement à l'Annexe. 5) Toute Partie qui n'a pas accepté un amendement à un article ou à l'Annexe en vertu de l'alinéa 2) _f) i)_ ou un amendement consistant à ajouter un appendice ou une annexe en vertu du paragraphe 4), ou qui a communiqué une objection, à un amendement à un appendice en vertu de l'alinéa 2) _f) ii)_ , est considérée comme non Partie aux seules fins de l'application de cet amendement, et ce jusqu'à la soumission d'une notification d'acceptation en vertu de l'alinéa 2) _f) i)_ ou de retrait de l'objection en vertu de l'alinéa 2) _g) ii)_. 6) Le Secrétaire général informe toutes les Parties de tout amendement qui entre en vigueur en vertu du présent article, ainsi que de la date à laquelle l'amendement entre en vigueur. 7) Toute déclaration d'acceptation, d'objection ou de retrait d'une objection relative à un amendement en vertu du présent article est notif",
+    "question": "Quelles sont les procédures prévues pour l'amendement de la convention, et comment les parties peuvent-elles exprimer leur acceptation ou leur objection à ces amendements, selon l'article 14 ?",
+    "answer": "ou qui a communiqué une objection, à un amendement à un appendice",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000039",
+    "context": "cations pour le personnel des cadres visés à l'article premier. **Article 22 :** Les candidats ne pourront se présenter plus de trois fois à un même concours ou à un même examen d'aptitude professionnelle. **Article 23 :** Les candidats admis aux concours prévus aux articles 3, 5, 7, 9, 11, 15, 16 et 19 ci-dessus sont nommés en qualité de stagiaire et ne peuvent être titularisés qu'après un stage d'une année. A l'expiration du stage, ils seront soit titularisés au 2e échelon du grade, soit admis à effectuer une nouvelle et dernière année de stage. A l'issue de cette dernière année de stage, s'ils ne sont pas titularisés, les agents stagiaires seront soit licenciés, soit pour ceux appartenant déjà à l'administration réintégrés dans leur cadre d'origine. En cas de prolongation de stage, il n'est pas tenu compte pour l'avancement de la durée du stage excédant un an. Les sous-lieutenants et lieutenants de port comptant des services antérieurs en qualité d'officier de la marine marchande ou de la marine royale sont reclassés après leur titularisation en fonction de la durée de leurs services antérieurs. **Article 24 :** Les avancements et promotions sont prononcés dans les conditions fixées par le décret n° 2-62-",
+    "question": "Quel est le processus de titularisation des agents stagiaires ?",
+    "answer": "ils ne sont pas titularisés",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000040",
+    "context": "tion, de la préparation et de l'utilisation de résines, de latex, de plastifiants ou de colles et adhésifs Y14 | Déchets de substances chimiques non identifiées et/ou nouvelles qui proviennent d'activités de recherche, de développement ou d'enseignement, et dont les effets sur l'homme et/ou sur l'environnement ne sont pas connus Y15 | Déchets de caractère explosible non soumis à une législation différente Y16 | Déchets issus de la production, de la préparation et de l'utilisation de produits et matériels photographiques Y17 | Déchets de traitements de surface des métaux et matières plastiques Y18 | Résidus d'opérations d'élimination des déchets industriels **Déchets ayant comme constituants** Y19 | Métaux carbonyles Y20 | Béryllium, composés du béryllium Y21 | Composés du chrome hexavalent Y22 | Composés du cuivre Y23 | Composés du zinc Y24 | Arsenic, composés de l'arsenic Y25 | Sélénium, composés du sélénium Y26 | Cadmium, composés du cadmium Y27 | Antimoine, composés de l'antimoine Y28 | Tellure, composés du tellure Y29 | Mercure, composés du mercure Y30 | Thallium, composés du thallium Y31 | Plomb, composés du plomb Y32 | Composés inorganiques du fluor, à l'exclusion du fluorure de calcium Y33 | Cyanures inorganiques Y34 | Solutions acides o",
+    "question": "Quelles sont les catégories spécifiques de déchets considérées comme \"dangereux\" selon l'annexe I de la Convention de Bâle, et comment sont-elles distinguées des \"autres déchets\" de l'annexe II ?",
+    "answer": "Y18 | Résidus d'opérations d'élimination des déchets industriels",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000041",
+    "context": "s de sa première réunion. La commission nationale tient valablement ses réunions lorsque la moitié au moins de ses membres sont présents ou représentés. **Chapitre III** _De la fabrication_ **Article 6 :** L'autorisation de fabrication prévue à l'article 4 de la loi précitée n°10-20 est délivrée, après avis de la commission nationale, par l'Administration de la défense nationale assortie du cahier des charges prévu à l'article 6 de ladite loi. A cet effet, une demande d'autorisation doit être déposée auprès de l'administration concernée mentionnant notamment les informations suivantes : 1\\. L'identité du représentant légal de la société ; 2\\. la dénomination ou la raison sociale de la société et sa forme juridique ; 3\\. l'adresse du siège social ; 4\\. la nature de l'activité ou des activités de fabrication objet de la demande d'autorisation ; 5\\. la nature et la catégorie des matériels et équipements de défense et de sécurité, armes et munitions concernés par l'autorisation avec indication de leurs spécifications et caractéristiques ; 6\\. la liste des sites de fabrication des matériels et équipements de défense et de sécurité, armes et munitions avec indication de leurs adresses ; 7\\. la liste des dirigeants de",
+    "question": "Dans le cadre d'une demande d'autorisation de fabrication, quelles informations précises concernant les actionnaires de la société doivent être fournies ?",
+    "answer": "identité du représentant légal",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000042",
+    "context": "s de navires de pêche d'une jauge brute supérieure à trois (03) unités de jauge dispensés de l'obligation de disposer à leur bord du système de positionnement et de localisation susmentionné en raison de l'insuffisance de leur alimentation électrique ou s'il s'agit de navires de pêche non pontés ; \\- les catégories de navires de pêche d'une jauge brute égale ou inférieure à trois (3) unités de jauge, qui en raison du type de pêche pratiqué et/ou de la zone concernée par ladite pêche, doivent disposer à leur bord du système de positionnement et de localisation susmentionné. **Article** **2** : Seuls les appareils et équipements agréés par l'Agence nationale de réglementation des télécommunications conformément à la réglementation en vigueur peuvent être utilisés à bord des navires indiqués à l'article premier ci-dessus. Ces appareils et équipements doivent permettre l'utilisation du système de communication par satellite compatible avec les installations de réception dont disposent les autorités habilitées à exercer la recherche et la constatation des infractions aux dispositions du dahir portant loi précité n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973). **Article 3 :** (modifié par l'article premier du décret n° 2-18-104 du 2 rabii II 1440 (10 décembre 2018)) Le dispositif de posi",
+    "question": "Quelles sont les conditions d'agrément des appareils et équipements utilisés pour le système de communication par satellite à bord des navires de pêche ?",
+    "answer": "Seuls les appareils et équipements agréés par l'Agence nationale de réglementation des télécommunications",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000043",
+    "context": "limite de responsabilité plus élevée. 2\\. a) Dans le transport de bagages enregistrés et de marchandises, la responsabilité du transporteur est limitée à la somme de deux cent cinquante francs par kilogramme, sauf déclaration spéciale d'intérêt à la livraison faite par l'expéditeur au moment de la remise du colis au transporteur et moyennant le paiement d'une taxe supplémentaire éventuelle. Dans ce cas, le transporteur sera tenu de payer jusqu'à concurrence de la somme déclarée, à moins qu'il ne prouve qu'elle est supérieure à l'intérêt réel de l'expéditeur à la livraison. b) En cas de perte, d'avarie ou de retard d'une partie des bagages enregistrés ou des marchandises, ou de tout objet qui y est contenu, seul le poids total du ou des colis dont il s'agit est pris en considération pour déterminer la limite de responsabilité du transporteur. Toutefois, lorsque la perte, l'avarie ou le retard d'une partie des bagages enregistrés ou des marchandises, ou d'un objet qui y est contenu, affecte la valeur d'autres colis couverts par le même bulletin de bagages ou la même lettre de transport aérien, le poids total de ces colis doit être pris en considération pour déterminer la limite de responsabilité. 3 En ce qui concerne les objets",
+    "question": "Comment le protocole de La Haye affecte-t-il la responsabilité du transporteur en cas de perte ou d'avarie des bagages enregistrés ?",
+    "answer": "d'avarie ou de retard d'une partie des bagages",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000044",
+    "context": "mbre de chaque année. **Article 6 : Dispenses d'autorisation** 1\\. Ne sont pas soumis au régime des autorisations les véhicules destinés et utilisés pour : _a_) le transport de déménagement ; _b_) le transport de matériel et d'objets, y compris les œuvres d'art, destinés à des foires, des expositions sur le territoire de l'autre partie contractante ; _c_) le transport de matériel et d'objets destinés uniquement à des fins publicitaires et d'information ; _d_) le transport des accessoires, des objets et des animaux pour des manifestations théâtrales, musicales, cinématographiques ou sportives, pour les cirques et foires y compris l'appareillage destiné à l'enregistrement radiophonique, cinématographique et de télévision sur le territoire de l'autre partie contractante ; _e_) les transports funéraires, à vide ou en charge ; _f_) le remplacement, le remorquage, le dépannage, ou le transport de véhicules endommagés ; _g_) le transport d'articles nécessaires aux soins médicaux d'urgence notamment en cas de catastrophes naturelles. 2\\. La commission mixte, visée à l'article 15, est autorisée à modifier la liste prévue au paragraphe précédent. **Article 7 : Contingent** Les autorisations de transports de marchandises sont délivrées dans la limite des contingents, fixés d'un comm",
+    "question": "Quels types de transports de marchandises sont exemptés du régime d'autorisation préalable, selon l'article 6 ?",
+    "answer": "pour les cirques et foires y compris l'appareillage destiné à l'enregistrement radiophonique",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000045",
+    "context": "eules les installations frigorifiques prévues au plan peuvent bénéficier du concours technique et éventuellement de l'aide financière de l'Etat. **Article 3** Les projets de création et de transformation des installations frigorifiques à usage public, que celles-ci figurent ou non au plan d'agrément, doivent être soumis pour avis à la direction de l'agriculture et des forêts. Il est délivré un certificat d'inspection aux établissements dont les règles d'organisation et de fonctionnement sont reconnues conformes à celles prescrites par le directeur de l'agriculture et des forêts, après avis de la commission consultative du froid. (complété par l'article unique du dahir du 29 chaoual 1374 (20 juin 1955))**** En outre un règlement-type, approuvé par arrêté viziriel, est applicable à tous ces établissements. Ce règlement est arrêté après consultation des associations professionnelles intéressées et avis de la commission consultative du froid. **Article 4 :** Le certificat d'inspection visé à l'article 3 ci-dessus peut être retiré si les installations cessent d'être en conformité avec ces règles. La direction de l'agriculture et des forêts peut, à cet effet, visiter à tout moment les installations frigorifiques. Elle peu",
+    "question": "Quel rôle la \"commission consultative du froid\" jouait-elle dans la mise en place du plan d'équipement frigorifique marocain ?",
+    "answer": "la commission consultative du froid",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000046",
+    "context": "re de partenariats notamment avec les établissements de crédit et organismes assimilés ; \\- porter assistance aux entreprises ; \\- exercer toute activité compatible avec son objet, y compris les opérations de financement en capital, pour le compte de l'Etat ou pour le compte de tout bailleur de fonds. Elle peut également effectuer toutes opérations financières mobilières ou immobilières, civiles ou commerciales, liées à son objet et propres à lui permettre d'exercer ses activités. **Article 4 :** L'activité principale de la Société est financée dans le cadre de « conventions de financement », préalablement approuvées par le conseil d'administration de la Société, conclues entre l'Etat et la Société. Lesdites conventions définissent notamment les programmes à réaliser, les moyens et modalités de leur financement et les objectifs qualitatifs et quantitatifs assignés à la Société, ainsi que les modalités de suivi et d'évaluation des performances. **Article 5 :** Les activités accessoires sont financées dans le cadre de « conventions spécifiques de financement », préalablement approuvées par le conseil d'administration de la Société, conclues entre la Société et l'Etat et/ou le bailleur de fonds concerné, selon le cas. Les conventions signées avec tout b",
+    "question": "Quelles sont les activités principales et accessoires de la Société, et comment sont-elles financées ?",
+    "answer": "préalablement approuvées par le conseil d'administration de la Société",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000047",
+    "context": "l'ingénieur géomètre-topographe concerné relève du secteur public, l'autorité investie du pouvoir disciplinaire fournit obligatoirement un rapport écrit au conseil sur les faits reprochés à l'intéressé. ** Article 99 :** Après avoir pris connaissance du rapport d'instruction, et éventuellement du rapport prévu au 2e alinéa de l'Article 98 précédent, le conseil national convoque, dans un délai n'excédant pas deux mois, l'ingénieur géomètre-topographe concerné ou le représentant de la société, l'informe des conclusions du ou des rapports et entend ses déclarations ou celles de son représentant. L'ingénieur géomètre-topographe ou le représentant de la société peuvent se faire assister par un confrère ou un avocat. Le conseil national statue dans un délai maximum de huit (8) jours suivant celui de l'audition de l'ingénieur géomètre-topographe ou du représentant de la société, ou de leur représentant. Les décisions du conseil national sont notifiées dans les dix jours par lettre recommandée avec accusé de réception à l'ingénieur géomètre-topographe concerné ou à la société et au plaignant. L'administration est informée de toutes décisions disciplinaires. ** Article 100 :** Le conseil national siégeant en conseil de discipline se compose du président, du conseiller juridique auprès du conseil national, d",
+    "question": "Comment se déroule la procédure d'appel d'une décision du conseil régional devant le conseil national, et quels sont les délais à respecter ?",
+    "answer": "L'ingénieur géomètre-topographe ou le représentant de la société peuvent se faire assister par un confrère ou un avocat",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000048",
+    "context": "ir passé une année complète de stage renouvelable une seule fois, sans que la période de prolongement ne soit prise en compte dans le calcul de l'ancienneté pour l'avancement. Les concernés sont assujettis pendant la période de stage, à des cycles de formation à l'académie marocaines des études diplomatiques dont les résultats sont pris en compte dans l'évaluation de leur performance pour la titularisation. S'ils ne sont pas titularisés après l'expiration de la 2ème année de stage, ils sont soient congédiés ou réintégrés dans leur garde ou cadre initial s'ils appartiennent à l'administration. Les conseillers des affaires étrangères issus des secrétaires des affaires étrangères sont dispensés du stage prévu au 1er paragraphe ci-dessus. --- ** المادة 26:** (نسخت وعوضت بالمادة الأولى من المرسوم رقم 204-11-2 بتاريخ 23 جمادى الآخرة 1432 (27 ماي 2011)) **إن الموظفين الخاضعين لمقتضيات هذا المرسوم الذين يلجون طبقا لأحكام هذا النظام الأساسي درجة تفوق بدرجة واحدة درجتهم ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/8293.html type: Décret date_publication: 2004-12-29 title: Décret n° 2-04-534 du 16 kaada 1425 (29 décembre 2004) portant statut particulier du personnel du ministère des affaires étrangères et de la coopération.",
+    "question": "Quelle est la durée du stage pour les candidats recrutés aux différents postes et quelles sont les conséquences en cas de non-titularisation, selon l'article 25 ?",
+    "answer": "Les conseillers des affaires étrangères issus des secrétaires des affaires étrangères sont dispensés du stage",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000049",
+    "context": "s-verbaux y relatifs. ** Article 47 :** Les infractions aux dispositions des articles 23, 24, 25, 27 et 28 du chapitre IX relatif à l'emploi des enfants et des personnes en situation d'handicap sont punies d'une amende de 5.000 à 10.000 dirhams. ** Article 48 :** Est puni d'une amende de 10.000 à 20.000 dirhams : \\- quiconque exerce l'activité d'une agence artistique sans l'autorisation prévue à l'article 33 de la présente loi. \\- tout responsable d'une agence artistique qui se fait remettre ou perçoit des dépôts ou des cautions de quelque nature que ce soit en vue de placer un artiste, et ce en infraction aux dispositions de l'article 37 de la présente loi. **** ** Chapitre XV : Dispositions exceptionnelles** **** **Article 49 :** Les fonctionnaires et agents des administrations publiques, des collectivités territoriales et des établissements publics peuvent réaliser des oeuvres artistiques pour leur propre compte ou au profit des tiers, moyennant un revenu supplémentaire conformément à la législation en vigueur, à condition que ces activités n'affectent pas le rendement de leur travail administratif. ** Article 50 :** Ne sont pas considérées comme cumul de salaires, les rémunérations et les indemnités afférentes aux activités artistiques réali",
+    "question": "Quelles sont les sanctions prévues pour l'exercice illégal d'une agence artistique ou la perception de dépôts illégaux ?",
+    "answer": "en infraction aux dispositions de l'article 37 de la présente loi",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000050",
+    "context": "é locale et globale de la construction._ __ **_5.1.7 Dommage au niveau des chaînages de liaison entre mur et toiture_** __ _Les fissures horizontales apparaissent dans la partie supérieure du mur lorsque celui-ci est liaisonné au plancher ou à la toiture par le biais d'une poutre ceinture ou chaînage. Le chainage doit être bien liaisonné au mur support pour permettre le transfert adéquat des contraintes de la toiture au mur._ __ ![](img/jurispro/9619_10.gif) **_Fig.9. Fissures horizontales à la jonction entre le mur et le chaînage._** **_5.1.8 Dommages dues à l'humidité_** __ _La base du mur, affaiblie par l'humidité excessive, est particulièrement exposée à la fissuration qui se développe le long d'un mur. Le glissement du mur peut se produire le long de ces fissures et entraîner un effondrement de la partie supérieur du mur vers l'extérieur._ ![](img/jurispro/9619_11.jpg) **_Fig.10. Glissement d'un mur affaibli à la base par l'humidité_** **** **_5.1.9 Autre facteurs_** __ _La fissuration existante due au retrait et au fluage du matériau terre, l'absence ou le disfonctionnement du système de drainage, les infiltrations d'eau au niveau de la couverture et des jonctions des murs, le phénomène de capillari",
+    "question": "Quels sont les principaux types de dommages sismiques observés dans les constructions en terre de type pisé, adobe ou bauge, et quels facteurs influencent l'importance de ces dommages ?",
+    "answer": "affaiblie par l'humidité",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000051",
+    "context": "rvices aériens de transport public. Ce contrôle peut être exercé au sol ou en vol par tout agent de la direction de l'air muni d'un ordre de mission établi par le directeur de l'air. La société doit, sur demande de l'agent chargé du contrôle, lui communiquer tous documents relatifs à la gestion commerciale et technique. Le directeur de l'air peut déléguer certaines de ses attributions de contrôle à un agent d'un organisme technique dûment habilité à cet effet. **Article 9 :** La société devra présenter au directeur de l'air, dans les trois mois qui suivent la clôture de chaque exercice fiscal un rapport de gestion, un bilan général et un tableau indicatif des pertes et profits. Le rapport doit présenter le résultat de la gestion commerciale et technique en fournissant à l'appui le maximum possible de données techniques, financières et statistiques. **Article 10 :** Cette autorisation est valable du 1er janvier au 31 décembre 1982. Elle peut être renouvelée pour une période de même durée. La demande de renouvellement doit parvenir au ministre des transports un mois avant la date d'expiration de cette autorisation. **Article 11 :** Sans préjudice des sanctions pénales qui sont prévues à la troisième part",
+    "question": "Quelles étaient les exigences en matière de rapports de gestion et de bilan pour la Société Air-Sud ?",
+    "answer": "un rapport de gestion",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000052",
+    "context": "effets similaires aux biens et produits importés ou exportés dans le cadre des contrats de coopération conclus sur la base du présent Accord par les organismes économiques, les entreprises et les firmes des deux pays, conformément aux lois et réglementations en vigueur dans chacun des deux pays. **Article 4 :** Les Parties contractantes favoriseront toutes les initiatives de nature à encourager et à promouvoir la coopération économique et technique à long terme, dans les domaines suivants : \\- industrie de la construction de machines et de la métallurgie ; \\- industrie énergétique ; \\- mines, pétrole et géologie ; \\- constructions et travaux publics ; \\- agriculture, industrie alimentaire et de la pêche. La liste des domaines et des objectifs économiques ci-dessus énumérés n'est pas limitative, les organismes économiques, entreprises et firmes des deux pays peuvent étendre la coopération économique et technique à d'autres domaines, en utilisant des formes de coopération réciproquement avantageuses. **Article 5 :** Dans le cadre des objectifs économiques mentionnés, à l'article 4 du présent Accord, la Partie roumaine livrera des outillages, machines, installations, équipements et autres marchandises de production roumaine, ainsi que des études, des licenc",
+    "question": "Quels sont les domaines de coopération économique et technique spécifiquement mentionnés dans l'accord ? L'accord est-il exhaustif dans sa liste de domaines ?",
+    "answer": "pétrole et géologie ; \\- constructions et travaux publics ; \\- agriculture",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000053",
+    "context": "'éviter les retards éventuels et disposer à temps des observations à prendre en considération pour l'élaboration d'une information comptable et financière fiable. A cet effet, la fonction comptable et financière doit établir des relations avec l'auditeur externe sur la base des différentes phases de la mission. Dans un premier temps, la fonction comptable et financière doit préparer des éléments d'information permanents sur l'organisme, tel que : \\- une fiche signalétique sur l'organisme ; \\- un bref historique de l'organisme ; \\- son organigramme ; \\- les personnes engageant l'organisme ; \\- des notes sur l'organisation et sur le secteur d'activité ; \\- les PV des conseils et assemblées ; \\- les principaux contrats, etc. Au cours de l'exercice, la fonction comptable et financière doit convenir avec l'auditeur externe de la date d'intervention en fonction de la disponibilité des intéressés et des informations de base. Ainsi, au cours de la phase intérimaire qui doit se dérouler avant la fin de l'exercice, la fonction comptable et financière doit préparer préalablement à l'intention de l'auditeur externe les informations suivantes : \\- les principaux engagements réalisés au cours de l'exercice ; \\- les états budgétaires ; \\- les modalités",
+    "question": "Quels types d'informations permanentes la fonction comptable et financière doit-elle préparer pour l'auditeur externe ?",
+    "answer": "des notes sur l'organisation et sur le secteur d'activité",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000054",
+    "context": "ractante, en ce qui concerne la gestion, la maintenance, l'utilisation, la jouissance et la cession de leurs investissements, un traitement juste et équitable et non moins favorable que celui qu'elle accorde à ses propres investisseurs ou à ceux de tout Etat tiers, le traitement le plus favorable étant retenu. 3\\. Les dispositions des paragraphes 1 et 2 de cet Article**** ne seront pas interprétées de façon à obliger une Partie contractante à étendre aux investisseurs de l'autre Partie contractante le bénéfice de tout traitement, préférence ou privilège qu'elle pourrait accorder en vertu : a) d'une union douanière, une zone de libre échange, une union monétaire ou un accord international similaire visant la création de telles unions ou institutions ou autres formes de coopération régionale auxquelles une Partie contractante adhère ou pourrait adhérer. b) de tout accord international ou arrangement concernant la fiscalité. **Article 4 : Dédommagement pour pertes** 1\\. Lorsque les investissements effectués par les investisseurs d'une Partie contractante subissent des pertes dues à une guerre, un conflit armé, un état d'urgence national, une révolte, une insurrection, une émeute ou autres événements similaires sur le territoire de l'autre Partie contractante, ils bénéficieront de la part**** de cette dernière d'un traitement juste et équitable et non moins favorable que celui qu'elle accorde à ses propres investisseurs ou aux investisseurs d",
+    "question": "Selon l'article 3, quel traitement est garanti aux investissements et revenus des investisseurs d'une partie contractante sur le territoire de l'autre partie, et quelles sont les exceptions à ce traitement ?",
+    "answer": "d'une union douanière, une zone de libre échange, une union monétaire ou un accord international similaire visant la création de telles unions ou institutions ou autres formes de coopération régionale auxquelles une Partie contractante adhère ou pourrait adhérer",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000055",
+    "context": "naissance de leurs fonctionnaires. L'Administration doit donc notifier à l' Organisation les responsabilités spécifiques confiées aux inspecteurs désignés ou aux organismes reconnus et les conditions de l' autorisation ainsi accordée. **Article IV : Signature, ratification, acceptation,** **approbation et adhésion** 1\\. Le présent Protocole est ouvert à la signature, au siège de l'Organisation, du 1er juin 1978 au 1er mars 1979 et reste ensuite ouvert à l'adhésion. Sous réserve des dispositions du paragraphe 3 du présent article, les Etats peuvent devenir Parties au présent Protocole par : a) signature sans réserve quant à la ratification, l'acceptation ou l'approbation ; ou b) signature sous réserve de ratification, d'acceptation ou d'approbation, suivie de ratification, d'acceptation ou d'approbation ; ou c) adhésion. 2\\. La ratification, l'acceptation, l'approbation ou l'adhésion s'effectuent par le dépôt d'un instrument à cet effet auprès du Secrétaire général de l'Organisation. 3\\. Le présent Protocole ne peut faire l'objet d'une signature sans réserve, d'une ratification, d'une acceptation, d'une approbation ou d'une adhésion que de la part des Etats qui ont signé sans réserve, ratifié, accepté ou",
+    "question": "Comment un État peut-il devenir partie au protocole, selon l'article IV, et quelles sont les différentes options disponibles ?",
+    "answer": "signature sans réserve",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000056",
+    "context": "\\- deux membres par le président de la Chambre des conseillers. **Article 3 :** Outre le président, les membres de la CNDP proposés en vue de leur désignation conformément aux dispositions de l'article 32 de la loi n° 09-08 sont choisis parmi des personnalités du secteur public ou privé qualifiées. La CNDP doit comprendre parmi ses membres des personnalités qualifiées pour leur compétence dans les domaines juridique et judiciaire, des personnalités justifiant d'une grande expertise en matière informatique ainsi que des personnalités reconnues pour leur connaissance des questions touchant aux libertés individuelles. Les membres de la CNDP sont choisis parmi les personnalités notoirement connues pour leur impartialité, leur probité morale, leur expertise et leur compétence. **Article 4 :** En cas de vacance, d'empêchement ou d'absence pour quelque cause que ce soit d'un membre de la Commission, il est pourvu dans les mêmes conditions, à son remplacement dans les 30 jours suivant celui où la vacance est constatée par le président de la CNDP. **** Les membres de la CNDP nommés en remplacement de ceux dont le mandat a pris fin avant son terme normal, achèvent le mandat des membres auxquels ils succèdent. **",
+    "question": "Quels sont les critères de sélection des membres de la CNDP, en dehors de leur nomination par le Roi, et comment ces critères garantissent-ils l'impartialité et la compétence de la commission ?",
+    "answer": "libertés individuelles",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000057",
+    "context": "iciaires dudit système, même lorsque la personne malade ou blessée n'est pas elle-même couverte par ce système, à la condition qu'elle n'en soit pas exclue en raison de toute restriction visant particulièrement les travailleurs étrangers ou les travailleurs ne résidant pas sur le territoire où le navire est immatriculé. **Article 6 :** \\- 1° L'armateur doit supporter les frais de rapatriement de tout malade ou blessé débarqué en cours de route par suite d'une maladie ou d'un accident. 2° Le port de rapatriement doit être : a) ou le port d'engagement ; b) ou le port de départ du navire ; c) ou un port du pays du malade ou du blessé ou du pays dont relève le malade ou le blessé ; d) ou un autre port fixé par accord entre l'intéressé et le capitaine ou l'armateur, avec l'approbation de l'autorité compétente. 3° Les frais de rapatriement doivent comprendre toutes dépenses relatives au transport, au logement et à la nourriture du malade ou du blessé pendant le voyage, ainsi que les frais d'entretien du malade ou du blessé jusqu'au moment fixé pour son départ. 4° Si le malade ou le blessé est en état de travailler, l'armateur peut s'acquitter de la prestation de rapatriement à sa charge en lui procurant un emploi convenable",
+    "question": "Quels sont les ports de rapatriement possibles pour un marin malade ou blessé, selon l'article 6 ?",
+    "answer": "un port du pays du malade ou du blessé",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000058",
+    "context": "l'usage de la médecine vétérinaire, lesdites substances. Sans avoir le droit de tenir une officine ouverte, ils sont autorisés à délivrer ces substances à leurs clients lorsque ceux-ci résident dans des communes ou agglomérations dépourvues de pharmacie. Dans les autres communes, ils ne jouissent de la même faculté que dans les cas où l'administration desdites substances est faite par eux-mêmes aux animaux. **Article 15 :** Les pharmaciens, les médecins et vétérinaires sont soumis aux conditions prescrites par les articles 3 et 4 en ce qui concerne la détention desdites substances. Toutefois, il leur est interdit de détenir dans les armoires visées à l'article 3 d'autres substances que celles mentionnées aux tableaux A et B. **Article 16 :** Les pharmaciens ne peuvent délivrer lesdites substances, pour l'usage de la médecine humaine ou vétérinaire, que sur la prescription d'un médecin ou d'un vétérinaire. Toutefois, ils peuvent délivrer, sur la prescription d'un chirurgien-dentiste ou d'une sage-femme diplômée, celles desdites substances dont la liste est fixée par arrêté viziriel rendu sur la proposition du directeur général des services de santé. **Article 17 :** L'auteur de la prescription est tenu, sous les sanctions prévues au présent dahir, de la dater, de la signer et de mentionner lisiblement son nom et",
+    "question": "Comment le dahir réglemente-t-il la délivrance des substances du tableau A pour la médecine humaine et vétérinaire, et quelles sont les responsabilités des pharmaciens, médecins et vétérinaires ?",
+    "answer": "il leur est interdit de détenir dans les armoires visées à l'article 3 d'autres substances que celles mentionnées aux tableaux A et B",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000059",
+    "context": "pitre X : Commission permanente indépendante des droits** **Humains** **Article 15 :** la commission permanente indépendante des droits humains favorise les droits civiques, politiques, sociaux et économiques consacres par les conventions et déclarations de l'organisation, ainsi que par les autres instruments universellement reconnus, en conformité avec les valeurs islamiques. **** **Chapitre XI : Secrétariat général** **Article 16 :** le secrétariat général comprend un secrétaire général qui est le premier responsable administratif de l'organisation et le personnel requis par l'organisation. le secrétaire général est élu par le conseil des ministres des affaires étrangères pour un mandat de cinq ans, renouvelable une fois. le secrétaire général est élu parmi les citoyens des états membres conformément aux principes de la répartition géographique équitable, de la rotation et de l'égalité des chances pour tous les états membres et en tenant dûment compte des critères de compétence, d'intégrité et d'expérience. **Article 17 :** Le Secrétaire général assume les responsabilités suivantes : a. Il peut attirer l'attention des organes compétents de l'Organisation sur toute affaire qui, à son avis, pourrait servir les objectifs de l'Organisation, ou lui porter préjudice ; b. Il assure le suivi de",
+    "question": "Comment le Secrétaire général de l'Organisation est-il élu et quel est la durée de son mandat, selon l'article 16 de la Charte ?",
+    "answer": "le secrétaire général est élu par le conseil des ministres des affaires étrangères pour un mandat de cinq ans",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000060",
+    "context": "### Context: 16.7.4 Points caractéristiques Les points caractéristiques artificiels et naturels, tels que ponts, mines, tours d'observation, forts, ruines, digues, pipelines, lignes de transport de force proéminentes, installations permanentes de funiculaire, rochers, versants abrupts, falaises, dunes de sable, phares isolés, bateaux-phares, etc., sont indiqués s'ils sont jugés importants pour la navigation aérienne à vue. Note. - Des notes descriptives peuvent être ajoutées. 16.7.5 Frontières Les frontières internationales sont indiquées. Les frontières mal définies sont signalées au moyen d'une note descriptive. 16.7.6 Hydrographie Tous les renseignements hydrographiques compatibles avec l'échelle de la carte sont indiqués, y compris les côtes, les lacs, les fleuves et les rivières, même de caractère sa",
+    "question": "Quels types de points caractéristiques, tant artificiels que naturels, sont généralement indiqués sur les cartes aéronautiques pour faciliter la navigation à vue ?",
+    "answer": "lignes de transport de force proéminentes",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000061",
+    "context": "### Context: 1) Le présent procès-verbal doit, s'il y a lieu, mentionner : a) les experts et techniciens consultés, b) la désignation de (ou des) sous commission technique pour l'examen des candidatures, c) la convocation des concurrents et les explications demandées ainsi que les réponses reçues, d) les observations ou protestations des concurrents et des membres et le point de vue de la commission sur ces observations ou protestations. 2) Il doit être joint à ce procès-verbal le (ou les) rapport de la (ou des) sous commission technique éventuellement. 3) Si la commission déclare l'appel d'offres infructueux dans les conditions prévues par le dernier alinéa de l'article 40 du décret n° 2-98-482 précité, ce procès-verbal doit être adapté en conséquence. **Modèle simplifie du cadre du procès verbal du concours.** **** **Royaume du Maroc** **** **Ministère** **Procès verbal du concours n° ................................** **** Le .........................................(date et heure), le jury du concours composé comme suit : \\- ........................................................................président \\- .........................................................................membre \\- .........................................................................membre \\- ................",
+    "question": "En cas de déclaration d'appel d'offres infructueux, comment le procès-verbal doit-il être adapté selon le texte ?",
+    "answer": "Si la commission déclare l'appel d'offres infructueux dans les conditions prévues par le dernier alinéa de l'article 40 du décret n° 2-98-482 précité",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000062",
+    "context": "onvention sur les privilèges et immunités des Nations Unies, ceux qui sont définis dans cette dernière convention, à moins que ledit Etat ne notifie au dépositaire, au moment du dépôt de son instrument de ratification, d'acceptation, d'approbation ou d'adhésion, qu'il n'appliquera pas cette dernière convention à l'organisation ; la convention sur les privilèges et immunités des Nations Unies cesse de s'appliquer à l'organisation trente jours après que ledit Etat en a donné notification au dépositaire ; _c)_ Ceux qui sont définis dans d'autres accords conclus par l'organisation. **Article 22 : Règlement des différends et demandes d'avis consultatif** 1\\. a) Tout différend entre deux ou plusieurs membres concernant l'interprétation ou l'application du présent acte constitutif, y compris ses annexes, qui n'a pas été réglé sur voie de négociations, et soumis au conseil à moins que les parties intéressées ne conviennent d'un autre mode de règlement. Si le différend concerne particulièrement un membre non représenté au conseil, ce membre a le droit de se faire représenter conformément à des règles à adopter par le conseil. b. Si le différend n'a pas été réglé conformément aux dispositions du paragraphe 1 _a)_ à la satisfaction de l'une quelconqu",
+    "question": "Quelles sont les dispositions prévues pour le règlement des différends entre les membres concernant l'interprétation de l'acte constitutif, selon l'article 22 ?",
+    "answer": "Règlement des différends et demandes d'avis consultatif** 1",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000063",
+    "context": "vie, ainsi que pour les allocations familiales : la \" Sociale Verzekeringsbank \" (Banque de l'Assurance Sociale) à Amstelveen. **ARTICLE III :** L'article 4, paragraphe 2 est modifié comme suit : \\- aux Pays-Bas, par la \" Sociale Verzekeringsbank \" (Banque de l'Assurance Sociale) à Amstelveen. **ARTICLE IV :** Le texte du chapitre 2 : \" Maladie et maternité \" est remplacé par le texte suivant : **Chapitre 2 : Maladie et maternité** **Article 6 :** Aux fins de l'application du présent chapitre, les termes \" institutions du lieu de résidence \" et \" institution du lieu de séjour \" désignent : a. aux Pays-Bas : \\- pour les prestations en nature : le \" Ziekenfonds \" (Caisse de maladie) compétent pour le lieu de résidence et \" Onderlinge Waarborgmaatschappij ANOZ Ziektekostenverzekeringen U.A. \" à Utrecht en cas de séjour temporaire ; \\- pour les prestations en espèces : la \" Nieuwe Algemene Bedrijfsvereniging \" (Nouvelle association professionnelle générale) à Amsterdam. b. au Maroc : \\- la Caisse Nationale de Sécurité Sociale (CNSS), siège à Casablanca ou services extérieurs à travers le Royaume du Maroc. **Article 7 :** 1\\. Pour bénéficier de la totalisation des périodes d'assurance visée à l'article 4 de la Convention, le travailleur qui s'est rendu d'un pays à l'autre est tenu de présenter à l'institution compétente de ce dernier pays une attestation mentionnant les périodes d'assurance accomplies sous la législatio",
+    "question": "Comment l'Arrangement Administratif révisé précise-t-il les modalités de remboursement des prestations en nature servies en vertu de la Convention révisée, et quelles sont les institutions impliquées dans ce processus ?",
+    "answer": "aux Pays-Bas : \\- pour les prestations en nature : le \" Ziekenfonds \" (Caisse de maladie) compétent pour le lieu de résidence et \" Onderlinge Waarborgmaatschappij ANOZ Ziektekostenverzekeringen U.A. \" à Utrecht en cas de séjour temporaire",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000064",
+    "context": "### Context: --- **Bulletin officiel n° 5066 du 14 chaoual 1423 (19 décembre 2002)** **EDITION DE TRADUCTION OFFICIELLE** **** **Dahir n° 1-01-297 du 12 joumada I 1423 (23 juillet 2002) portant publication de la convention de 1972 sur l'interdiction de la mise au point, de la fabrication et du stockage des armes bactériologiques (biologiques) ou à toxines et sur leur destruction.** **** **LOUANGE A DIEU SEUL !** _(Grand Sceau de Sa Majesté Mohammed VI)_ Que l'on sache par les présentes - puisse Dieu en élever et en fortifier la teneur ! Que Notre Majesté Chérifienne, Vu la Convention de 1972 sur l'interdiction de la mise au point, de la fabrication et du stockage des armes bactériologiques (biologiques) ou à toxines et sur leur destruction ; Vu le procès-verbal de dépôt des instruments de ratification du Royaume du Maroc de la Convention précitée, fait à Londres, le 21 mars 2002, **A décidé ce qui suit :** Sera publiée au _Bulletin officiel_ , à la suite du présent d",
+    "question": "Quels étaient les objectifs à long terme de la Convention concernant les armes chimiques ?",
+    "answer": "de la fabrication et du stockage des armes bactériologiques (biologiques) ou à toxines et sur leur destruction",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000065",
+    "context": "### Context: dans des conditions satisfaisantes. **Article 238 :** L'exploitant doit donner des instructions utiles pour que toute personne en danger d'asphyxie ou victime d'une commotion électrique, reçoive les soins prescrits par l'instruction visée à l'article 49 pour les victimes des accidents électriques ; cette instruction, complétée par les mots “ ou d'asphyxie ”, doit être affichée dans les locaux de la surveillance et concurremment avec les autres avis destinés aux ouvriers. **Article 239 :** Toute personne en état d'ivresse doit être immédiatement expulsée de la mine et de ses dépendances. **Titre quatorzième : Plans et registres** **** **Article 240 :** Pour chaque mine, il est dressé un plan des travaux orienté au nord vrai et repéré par rapport à une ligne d'orientation tracée sur le sol, qui servira de base pour le réglage des instruments soit optiques, soit magnétiques. La position de la ligne d'orientation peut être vérifiée, s'il y a lieu, par les ingénieurs des mines ou les ingénieurs subdivisionnaires des mines. **Article 241 :** Les plans des travaux sont dressés à l'échelle de 1 millimètre par mètre et divisés en carreaux de 10 en 10 centimètres. Il est tenu un plan",
+    "question": "Que doit-on faire immédiatement avec une personne en état d'ivresse dans la mine ou ses dépendances ?",
+    "answer": "Toute personne en état d'ivresse doit être immédiatement expulsée de la mine et de ses dépendances",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000066",
+    "context": "e IX : Dérogations** **Article 24 :** 1\\. Lorsque l'assistance demandée dans le cadre du présent Accord est de nature à porter atteinte à la souveraineté, à la sécurité, à l'ordre public ou à d'autres intérêts nationaux essentiels de la Partie contractante requise, ou encore aux intérêts commerciaux ou professionnels légitimes, la Partie contractante en cause, peut refuser de la fournir ou bien, la fournir sous réserve que soient remplies les conditions qu'elle aura éventuellement imposées. 2\\. L'assistance peut être différée lorsqu'il y a des raisons de croire qu'elle perturbera une enquête, des poursuites judiciaires ou une procédure en cours. Dans ce cas, l'Administration requise consulte l'Administration requérante pour déterminer si l'assistance peut être apportée sous réserve du respect des conditions éventuellement spécifiées par l'Administration requise ; 3\\. Si l'Administration requise estime que les efforts à consentir pour satisfaire une demande sont de toute évidence disproportionnés par rapport aux bénéfices pouvant être procurés à l'Administration requérante, elle peut ne pas accorder cette assistance ; 4\\. Les raisons doivent être données lorsque l'assistance est refusée ou différée. **Chapitre X : Coûts** **Article 25 :** 1\\. Sou",
+    "question": "Quelles sont les conditions dans lesquelles une administration douanière peut refuser ou différer une demande d'assistance, et comment l'accord gère-t-il les coûts liés à l'exécution de ces demandes ?",
+    "answer": "des poursuites judiciaires ou une procédure en cours. Dans ce cas",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000067",
+    "context": "doit être assurée. **** **III-3. - Les matériels de conservation** **** Les matériels de conservation doivent répondre aux règles générales de sécurité sanitaire, communément admises. Ils doivent en outre être adaptés aux greffons conservés, à leur conditionnement et à leur durée de conservation. Ils sont équipés d'un système de rangement évitant tout risque de perte ou de confusion entre les différents produits. Des systèmes autonomes de contrôle et d'enregistrement de température sont obligatoires pour tous les matériels devant assurer le maintien des greffons à une température spécifique. Ces enregistrements sont archivés. Les alarmes de température ou de niveau à une valeur seuil déterminée, adaptée à chaque récipient, doivent être locales et reportées à un poste de surveillance en continu. Les conteneurs frigorifiques et les incubateurs doivent être secourus en cas de panne mécanique ou de défaut d'alimentation électrique pour éviter toute variation de température au-delà de valeurs seuils définies pour la conservation et pendant un temps compromettant la qualité des produits conservés. L'entretien, la réparation et le contrôle régulier et systématique dont doit bénéficier chaque appareil font l'objet d'une",
+    "question": "Quelles sont les exigences spécifiques en matière de température et de durée de conservation pour les greffons, et comment les conteneurs sont-ils adaptés à ces exigences ?",
+    "answer": "Ces enregistrements sont archivés",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000068",
+    "context": "lité ; d) si cette personne possède la nationalité des deux Etats, ou si elle ne possède la nationalité d'aucun d'eux, les autorités compétentes des Etats contractants tranchent la question d'un commun accord. 3\\. Lorsque, selon les dispositions du paragraphe 1, une personne autre qu'une personne physique est un résident des deux Etats contractants, elle est considérée comme un résident de l'Etat où son siège de direction effective est situé. **Article 5 : Etablissement stable** 1\\. Au sens de la présente Convention, l'expression \"établissement stable\" désigne une installation fixe d'affaires par l'intermédiaire de laquelle une entreprise exerce tout ou partie de son activité. 2\\. L'expression \"établissement stable\" comprend notamment : a) un siège de direction b) une succursale ; c) un bureau ; d) une usine ; e) une magasin ; f) un atelier ; et g) une mine, un puits de pétrole ou de gaz, une carrière ou tout autre lieu d'extraction de ressources naturelles. 3\\. un chantier de construction ou de montage ne constitue un établissement stable que si sa durée dépasse six mois. 4\\. Nonobstant les dispositions précédentes de cet article, on considère qu'il n'y a pas \"établissement stable\" si : a) Il est fait usage d'installations aux seules fins de stockage, d'expositio",
+    "question": "Comment la convention définit-elle un \"établissement stable\" et quelles activités sont explicitement exclues de cette définition selon l'article 5 ?",
+    "answer": "par l'intermédiaire de laquelle une entreprise exerce tout ou partie de son activité",
+    "language": "fr",
+    "difficulty": "hard",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000069",
+    "context": "et préparé en vue de l'alimentation du bétail et que le produit ne renferme pas de graisses d'origine animale autres que celles d'origine butyrique et qu'il est en vente libre dans le pays d'origine. Le lait d'allaitement contenant dans leur composition des graisses animales non butyriques sont interdits à l'importation. **Article 4 :**(modifié par l'article 2 du décret n° 2-17-620 du 19 rabii I 1439 (8 décembre 2017)) Les laits destinés à l'alimentation des animaux ne peuvent être importés que dans des récipients ou emballages portant visiblement : **1.** la marque ou raison sociale ; **2.** la mention \" lait destiné à l'alimentation animale \" ; **3.** la date limite de validité, **Article 5 :** Est abrogé le décret n° 2-57-1524 du 18 rabii II 1377 (12 novembre 1957) relatif à l'importation des laits destinés à l'alimentation du bétail. **Article 6 :** Le Ministre de l'agriculture, du développement rural et des pêches maritimes est chargé de l'exécution du présent décret qui sera publié au Bulletin officiel. _Fait à Rabat, le 20 chaoual 1426 (23 novembre 2005)._ **Driss Jettou.** **Pour contreseing :** __ _Le Ministre de l'agriculture,_ _du développement rural_ _et des pêches maritimes_ , **Mohand Laenser.** **** ### Source: URL:",
+    "question": "Quelles sont les conditions spécifiques que doit remplir le lait d'allaitement importé pour être autorisé à l'importation ?",
+    "answer": "la mention \" lait destiné à l'alimentation animale",
+    "language": "fr",
+    "difficulty": "medium",
+    "split": "train"
+  },
+  {
+    "id": "legal_qa_000070",
+    "context": "e et la tension installée \\- Raccordement à la terre. \\- L'alimentation indépendante du tableau général (cf. réglementation incendie en tertiaire) \\- Dispositif d'arrêt et de protection. \\- La Qualité des jonctions, étanchéité et nature des raccords (résistance aux intempéries sisituées en extérieur). \\- La nature et la tenue de l'isolant éventuel autour des conduits. \\- L'accessibilité des différentes parties. \\- Positionnement des conduits et des supports de suspension \\- L'absence de réduction brusque• de section. \\- Visuel des caissons, de l'état de la courroie (tension), des filtres, des batteries d'échangeurs (s'il y a lieu), des manchettes souples, des alignements des poulies, \\- Conditions de pose et du raccordement aéraulique et du support, de l'accessibilité des portes, existence de manchette souple entre le caisson et le réseau de conduits, \\- L'état des organes de contrôle (pressostats, tubes de pressions), étanchéité de l'enveloppe et des raccords. -Mise en route des caissons et vérification du sens de rotation, détection de bruits ou de vibrations parasites éventuels. **6.7.2 Etape 2 :** Correspond à un examen plus approfondi intégrant, en plus de l'examen visuel, des relevés des performan",
+    "question": "Comment vérifier la concordance entre le matériel installé et les spécifications du cahier des charges lors de l'inspection simplifiée (étape 1), en particulier concernant les branchements aérauliques et électriques ?",
+    "answer": "batteries d'échangeurs",
+    "language": "fr",
+    "difficulty": "easy",
+    "split": "train"
+  }
+]

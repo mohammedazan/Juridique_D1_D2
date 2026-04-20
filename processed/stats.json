@@ -1,0 +1,16 @@
+{
+  "total_samples": 100,
+  "avg_context_length": 196.06,
+  "avg_answer_length": 11.15,
+  "length_unit": "words",
+  "difficulty_distribution": {
+    "easy": 34,
+    "medium": 33,
+    "hard": 33
+  },
+  "split_distribution": {
+    "train": 70,
+    "val": 15,
+    "test": 15
+  }
+}
