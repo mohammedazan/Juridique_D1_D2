@@ -1,0 +1,113 @@
+{
+  "question_types": {
+    "definition": {
+      "count": 4,
+      "percent": 4.0
+    },
+    "condition": {
+      "count": 12,
+      "percent": 12.0
+    },
+    "procedure": {
+      "count": 31,
+      "percent": 31.0
+    },
+    "obligation": {
+      "count": 9,
+      "percent": 9.0
+    },
+    "other": {
+      "count": 44,
+      "percent": 44.0
+    }
+  },
+  "length_analysis": {
+    "question_length_words": {
+      "avg": 22.81,
+      "min": 10,
+      "max": 41
+    },
+    "answer_length_words": {
+      "avg": 11.15,
+      "min": 2,
+      "max": 41
+    },
+    "context_length_words": {
+      "avg": 196.06,
+      "min": 87,
+      "max": 241
+    }
+  },
+  "answer_type_distribution": {
+    "short": {
+      "count": 25,
+      "percent": 25.0
+    },
+    "medium": {
+      "count": 54,
+      "percent": 54.0
+    },
+    "long": {
+      "count": 21,
+      "percent": 21.0
+    }
+  },
+  "filtering_impact": {
+    "initial_size": 24973,
+    "after_language_filter": 12877,
+    "after_extractive_filter": 5535,
+    "final_size": 100,
+    "monotonic_non_increasing": true,
+    "method_note": "Counts were recomputed in read-only mode from DATASET/qa.csv using the same language and extractive rules as the existing pipeline."
+  },
+  "sample_examples": [
+    {
+      "id": "legal_qa_000082",
+      "question": "Quelles sont les obligations des employeurs concernant les permissions d'absence pour les salariés élus au conseil de la région, et comment le temps passé en session est-il géré ?",
+      "context": "complissement de missions pour le compte de la région ou lorsqu'ils sont mandatés pour représenter le conseil ou lors de leur participation aux sessions de formation continue prévue à l'article 56 ci-dessus . A cet effet, chaque région est tenue d'adhérer à un régime d'assurance, conformément aux lois et règlements en vigueur. ** Article 58 :** Les fonctionnaires et les agents de l'Etat, des collectivités territoriales et des établissements publics, élus en tant que membres du conseil de la région, bénéficient de plein droit, de permissions d'absence pour participer aux sessions du conseil et aux réunions des commissions dont ils sont membres ou des instances ou des établissements publics ou privés auprès desquels ils représentent le conseil conformément aux lois et règlements en vigueur, ainsi que pour participer aux sessions de formation continue visée à l'article 56 ci-dessus. Ces permissions sont données dans la limite de la durée effective de ces sessions ou réunions. La permission d'absence est accordée à plein traitement et sans entrer en ligne de compte pour le calcul des congés réguliers. ** Article 59 :** Les employeurs sont tenus d'accorder aux salariés de leurs entreprises élus en tant que membres du conseil de la régi",
+      "answer": "aux réunions des commissions dont ils sont membres"
+    },
+    {
+      "id": "legal_qa_000015",
+      "question": "Dans quelles circonstances les frais d'accouchement sont-ils inclus dans le remboursement partiel des dépenses de santé ?",
+      "context": "tombent malades quand elles accompagnent leur mari en congé administratif, en congé de maladie, ou en détachement en dehors de leur résidence, ou qui sont dans l'obligation, pour raison de santé dûment justifiée, de quitter la résidence ; c) Aux enfants considérés comme étant à charge, qui sont absents du domicile paternel pour quelque cause que ce soit : (modifié par l'article 1er de l'arrêté du directeur général des finances du 25 janvier 1932)**** 4° Les frais d'accouchement ne sont pas cependant exclus du remboursement partiel. Les honoraires du médecin appelé pour assister la sage-femme ou les honoraires du médecin spécialiste appelé par le médecin ordinaire, dans les cas d'accouchements difficiles. **Article 5 :** Les officiers et agents des brigades admis dans les hôpitaux, subissent au cours de leur séjour dans ces établissements une retenue mensuelle sur leurs appointements à titre de contribution au paiement des frais d'hospitalisation. Cette retenue est effectuée d'après un barème dont les taux de pourcentage sont fixés par le directeur des douanes et régies et varient suivant la situation de famille des intéressés et le nombre de personnes à leur charge. **Chapitre II : Service de casernement** **Article 6 :** Dans les localités où les nécessités du service le comportent, où les",
+      "answer": "ou les honoraires du médecin spécialiste appelé par le médecin ordinaire, dans les cas d'accouchements difficiles"
+    },
+    {
+      "id": "legal_qa_000004",
+      "question": "Décrivez les trois niveaux du système de détection requis pour les dépôts, armoires et fabriques, en précisant les technologies possibles pour chaque niveau.",
+      "context": "ou à la fabrique doit faire l'objet d'une protection périphérique de manière à interdire le passage à tout véhicule non autorisé. \\- Niveau de détection 2 : une détection périmétrique permettant de déceler une intrusion au niveau des accès du dépôt ou de la fabrique. Elle est destinée à déceler, avant la pénétration à son intérieur, la tentative d'ouverture ou de détérioration des issues, ouvrants, parois ainsi que parties de parois de faible résistance mécanique du bâtiment et peut être assurée par : • une détection d'ouverture des issues et des ouvrants extérieurs de l'installation ; • une détection à la détérioration, sous l'effet par exemple de chocs ou de phénomènes sismiques, des issues, des ouvrants, des parois ou des parties de parois de faible résistance mécanique. \\- Niveau de détection 3 : une détection intérieure permettant de déceler une intrusion interne au dépôt ou à la fabrique. Elle peut être assurée notamment par : • une détection d'ouverture des issues et des ouvrants intérieurs à l'installation ; • une détection à la détérioration des issues, des ouvrants et des parties de parois de faible résistance mécanique ; • une détection de passage par les ouvertures ou dans les circulations ; • une détection de mouvement dans les passages obligés, locaux et aux abords du dépôt ou de la fabrique. La conservation des enregistrements vidéos doit être ob",
+      "answer": "détection à la détérioration, sous l'effet par exemple de chocs ou de phénomènes sismiques, des issues, des ouvrants, des parois ou des parties de parois de faible résistance mécanique"
+    },
+    {
+      "id": "legal_qa_000095",
+      "question": "Quelles sont les conditions pour être candidat au Prix Mohammed VI de l'art de la calligraphie ?",
+      "context": "cle 4 :** Le prix Mohammed VI d'excellence en l'art de la calligraphie est décerné aux calligraphes ayant prouvé leurs connaissances des règles de l'art de la calligraphie, et leur capacité de créativité, d'innovation et de présence distinguée dans cet art. **Article 5 :** Le prix Mohammed VI de distinction en l'art de la calligraphie est décerné aux calligraphes ayant prouvé leur connaissance minutieuse des styles de la calligraphie arabe, et leur maîtrise de ce genre d'art. **Article 6 :** Le candidat à l'obtention du prix Mohammed VI de l'art de la calligraphie en ses trois catégories doit être une personne physique, de nationalité marocaine, pratiquant ou s'intéressant à l'art de la calligraphie. **Chapitre III** **_Procédures d'organisation du prix_** __ **Article 7 :** Le prix Mohammed VI d'honneur de l'art de la calligraphie est décerné à l'une des personnalités nationales, remplissant les conditions prévues au présent décret, et sollicitée par la commission du prix prévue à l'article 16 ci-après. **Article 8 :** Le prix Mohammed VI d'excellence en l'art de la calligraphie et le prix Mohammed VI de distinction en l'art de la calligraphie sont obtenus en participant et en remportant une compétition na",
+      "answer": "être une personne physique"
+    },
+    {
+      "id": "legal_qa_000036",
+      "question": "Quelles sont les limites d'endettement d'un OPCI, tant pour les emprunts liés aux actifs immobiliers que pour les emprunts de trésorerie, et comment ces emprunts doivent-ils être utilisés ?",
+      "context": "nts et souscrire des dettes dans la limite de 40% de la valeur des actifs mentionnés au 1), 2), 3), 4) et 5) de l'article 3 de la loi n° 70-14 précitée, désignés ci-après « actifs immobiliers », sous forme : \\- d'obligations émises conformément aux dispositions de la loi n° 17-95 relative aux sociétés anonymes promulguée par le dahir n° 1-96-124 du 14 rabii II 1417 (30 août 1996), telle qu'elle a été modifiée et complétée ; \\- des avances en compte courant d'associés ; \\- d'emprunts bancaires d'une maturité supérieure à une année. Pour l'appréciation de la limite mentionnée au premier alinéa, il est tenu compte de l'ensemble des emprunts et dettes souscrits directement par l'OPCI, ou indirectement à concurrence du pourcentage de sa participation dans les sociétés et les OPCI visés respectivement aux 4) et 5) de l'article 3 de la loi n° 70-14 précitée. Conformément au règlement de gestion de l'OPCI, les emprunts et dettes visés au premier alinéa ci-dessus doivent être affectés au financement des opérations entrant dans l'objet principal de l'OPCI tel que prévu à l'article premier de la loi n° 70-14 précitée, et/ou à titre exceptionnel pour faire face à des demandes de rachats de titres d'OPCI ayant un caractère inhabituel. **Article 16 :** Un OPCI peut contracter des e",
+      "answer": "il est tenu compte de l'ensemble des emprunts et dettes souscrits directement par l'OPCI"
+    }
+  ],
+  "metadata": {
+    "seed": 42,
+    "dataset_path": "processed\\legal_qa_dataset.json",
+    "qa_csv_path": "DATASET\\qa.csv",
+    "classification_precedence": [
+      "definition",
+      "condition",
+      "procedure",
+      "obligation",
+      "other"
+    ],
+    "answer_length_bins_words": {
+      "short": "<=5",
+      "medium": "6-15",
+      "long": ">15"
+    },
+    "method": "rule_based_read_only_analysis"
+  }
+}
